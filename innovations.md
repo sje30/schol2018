@@ -47,50 +47,50 @@ SJE https://orcid.org/0000-0001-8607-8025
 # Introduction
 
 In some ways, the state of scholarly publishing has not changed much
-in the last ten years.  Publishing in a top-tier journal is still perceived
-as critical for career progression (promotion, gaining grants) by
-scientists.  Likewise, journal metrics continue to dominate in the
-evalution of a paper's research, rather than reading the paper itself
-(Brenner).  However, there are several reasons for optimism that the
-nature of scientific publishing will improve.  Here we outline some
-recent deveopments in the life sciences.
+in the last ten years.  Publishing in a top-tier journal is still
+perceived as critical for career progression (promotion, gaining
+grants) by scientists.  Likewise, journal metrics continue to dominate
+in the evalution of a paper's research, rather than reading the paper
+itself (Brenner).  However, there are several reasons for optimism
+that the nature of scientific publishing will improve.  Here we
+outline some recent deveopments in the life sciences.
 
 ## Preprints
 
-Physicists (since 1992?) have heralded the preprint server Arxiv as a
-rapid way of disseminating their research findings.  On the surface,
-it does not provide much beyond a collection of PDFs grouped by
-topic.  In certain fields, being the first to publish on the Arxiv is
-considered to be critical, rather than publishing in a journal.
-Although Arxiv hosts papers in quantitative biology, it was assumed
-that biologists would not adopt a preprint culture.  A primary reason
-for this was simply that publishing a preprint might prevent
-subsequent publication in a top-tier journal, or leading to scooping
-by another group.
+Since 1991 physicists have heralded the preprint server ArXiv
+[Ginsparg 2017] as a rapid way of disseminating their research
+findings.  On the surface, it does not provide much beyond a
+collection of PDFs grouped by topic.  In certain fields, being the
+first to publish on the ArXiv is considered to be critical, rather
+than publishing in a journal.  Although ArXiv hosts papers in
+quantitative biology, it was assumed that biologists would not adopt a
+preprint culture: publishing a preprint might prevent subsequent
+publication in a top-tier journal, or leading to scooping by another
+group.
 
-Biorxiv, launched in 2010?, has changed this. Researchers in diverse
-areas as ecology, neuroscience, genomics are uploading preprints and
-choosing to share their work ahead of publication.  There are many
-reasons for this usage:
+BiorXiv, launched in 2013, has overcome these concerns. Researchers in
+diverse areas as ecology, neuroscience, genomics are uploading
+preprints and choosing to share their work ahead of publication.
+There are many reasons for this usage:
 
 * Sharing work before submitting to a journal allows for community
   feedback.
 * Sharing work at the time of submission means that the community can
   read the work months (or years) before the work eventually
   appears in print.
-* Journal editors are browsing the biorxiv and soliciting that
+* Journal editors are browsing the bioRxiv and soliciting that
   relevant papers be submitted to their journal.  (How widespread this
   is, I'm not sure.)
-* Biorxiv Preprints can be transferred rapidly to journal submission
+* BioRxiv preprints can be transferred rapidly to journal submission
   sytems rather than going through (often lengthy) direct submission
   to the journal.
 * Several funding agencies, including NIH and UKRI, allows
   preprints to be listed and cited in grant applications.
   
-Biorxiv submissions continue to increase rapidly (e.g. XXX / year in
+BioRxiv submissions continue to increase rapidly (e.g. XXX / year in
 2015, now YYY Jan-Oct 2018).  Unlike a few years ago, very few (if
 any?)  journals in the life sciences now regard a preprint as prior
-publication of that work.  Biorxiv can even be used as the substrate
+publication of that work.  BioRxiv can even be used as the substrate
 for an overlay journal (example?), and we look forward to the creation
 of prominent diamond OA overlay journals in the life sciences.
 
@@ -121,7 +121,7 @@ commentary of publications.
 Orcid <https://orcid.org> provides a digital identifier for
 researchers.  Journals are adopting these allowing for easy linking of paper.
 
-DORA -- declaration for individiauls and institutions to commit to
+DORA https://sfdora.org/ -- declaration for individiauls and institutions to commit to
 evaluating research based on its content rather than metrics.  Many
 funders in the UK have signed up, although only a few Universites to
 date have signed.
@@ -139,8 +139,9 @@ strict formatting requirements for manuscripts before peer review.
 As editors at top-tier journals 'desk reject' most submissions before
 peer review, this leads to many wasted hours [Budd 2017].  Gradually
 life science journals are now dropping these formatting requirements
-for initial submissions, instead allowing "format free" submissions.
-[See Aziz list.]
+for initial submissions, instead allowing "format free" submissions [
+see also; https://asntech.github.io/format-free-journals/].
+
 
 
 **Badges** to promote sharing of resrouces, rather than just the
@@ -154,12 +155,12 @@ Key Funders in the UK have had policies in place supporting open
 access for many years.  IN particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
 for non-compliance.  Compliance rates (around 90%) are highest for the
-WT, as of October 2017 [ref Nature paper], with compliance for other
-UK funders varying at 50-90% [check].  Where work has been supported by
-relevant funding agencies, our experience to date is that funds have
-always been available to support APCs.  However, one of us [SJE] has
-experienced difficulties in finding APCs for papers summarising work
-supported by internal, rather than external, funds.
+WT, as of October 2017 [Larivière and Sugimoto 2018], with compliance
+for other main funders varying at 70-90%.  Where work has been
+supported by relevant funding agencies, our experience to date is that
+funds have always been available to support APCs.  However, one of us
+[SJE] has experienced difficulties in finding APCs for papers
+summarising work supported by internal, rather than external, funds.
 
 
 One perhaps unintended consequence of these policies has been that
@@ -167,11 +168,17 @@ most traditional journals have established a "hybrid" model of
 publishing, with APCs that often exceed those in pure OA journals.
 This hybrid model of publishing has shown little signs to date of
 disappearing, as e.g. funds from Wellcome Trust have supported high
-APCs.  However, this may change with the recent announcement of "plan
-S" [ref], a European initiative to enforce OA, cap APCs and prohibit
-publishing in hybrid journals.  Whilst we support the notions
-underlying plan S, until further details are released (e.g. the nature
-of the APC cap, recognition of green and diamond OA).
+APCs. The success of OA publishing however has meant that
+goverment-provided funds can often no longer cover all APCs and UK
+institutions are beginning to restrict the choice of journals for
+which APCs will be paid.
+
+The OA publishing world is about to change with the recent
+announcement of "plan S" [ref], a European initiative to enforce OA,
+cap APCs and prohibit publishing in hybrid journals.  Whilst we
+support the notions underlying plan S, until further details are
+released (e.g. the nature of the APC cap, recognition of green and
+diamond OA).
 
 
 
@@ -185,6 +192,13 @@ of the APC cap, recognition of green and diamond OA).
 Perhaps need a list of key abbreviations/terms that are jargon
 (APCs/hybrid/diamond OA).
 
+Khan A, Montenegro-Montero A, Mathelier A (2018) Put science first and
+formatting later. EMBO Rep 19 Available at:
+http://dx.doi.org/10.15252/embr.201845731.
+
+Budd J (2017) Publishing: Reformatting wastes public funds. Nature
+543:40 Available at: http://dx.doi.org/10.1038/543040e.
+
 Else H (2018) Radical open-access plan could spell end to journal
 subscriptions. Nature 561:17–18 Available at:
 http://dx.doi.org/10.1038/d41586-018-06178-7.
@@ -197,3 +211,6 @@ Larivière V, Sugimoto CR (2018) Do authors comply when funders enforce
 open access to research? Nature 562:483 Available at:
 https://www.nature.com/articles/d41586-018-07101-w [Accessed October
 25, 2018].
+
+Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
+https://arxiv.org/abs/1706.04188.
