@@ -1,9 +1,11 @@
 
+
+<http://www.emergtoplifesci.org/>
 <pre>
 
 Therefore, I wanted to get in touch as we are putting together an
 issue of our interdisciplinary journal, Emerging Topics in Life
-Sciences<http://www.emergtoplifesci.org/>, on the scholarly publishing
+Sciences <http://www.emergtoplifesci.org/>, on the scholarly publishing
 landscape, with the focus being on the current impact on and
 implications for life science researchers. The issue would cover a
 number of aspects of the scholarly publishing landscape, including
