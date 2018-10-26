@@ -146,7 +146,7 @@ life science journals are now dropping these formatting requirements
 for initial submissions, instead allowing "format free" submissions [
 see also; https://asntech.github.io/format-free-journals/].
 
-**Stronger data sharing policies and expectations**
+**Stronger data sharing policies and community expectations**
 Perhaps cite: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194768
 
 
