@@ -71,6 +71,11 @@ preprint culture: publishing a preprint might prevent subsequent
 publication in a top-tier journal, or leading to scooping by another
 group.
 
+(RM rant: I wouldn't be so upbeat about preprints tbh. ArXiv physicists still publish in journals after posting to arxiv.
+So you're correct that in those communities, being the first to publish on arxiv is important, it NOT correct to say in general that those communities use arxiv rather than a journal: they use BOTH. Only very very recently with initiatives like SciPost (https://scipost.org/) are the physicists actually trying to divorce themselves from publishing in journals for certification purposes after posting to arxiv
+
+Also please mention PeerJ Preprints, OSF Preprint servers, and preprints.org (MDPI), biorxiv isn't the only game in town!)
+
 BiorXiv, launched in 2013, has overcome these concerns. Researchers in
 diverse areas as ecology, neuroscience, genomics are uploading
 preprints and choosing to share their work ahead of publication.
@@ -97,6 +102,8 @@ publication of that work.  BioRxiv can even be used as the substrate
 for an overlay journal (example?), and we look forward to the creation
 of prominent diamond OA overlay journals in the life sciences.
 
+(RM comment: Sadly i'm not so certain that biology diamond OA overlay journals for biology are coming any time soon but see https://peercommunityin.org/ and the fact PCI recommendations now appear in EuropePMC as a glimmer of hope in that direction)
+
 ## Preregistration studies
 
 According to recent surveys, life scientists across many domains
@@ -112,7 +119,7 @@ pre-registration study is approved, it is then published.  After the
 research is completed, another paper describes the results of the
 study using the pre-registered methods.  (Additional findings can be
 reported, but are clearly marked as such.)  Preregistration is
-most prevalent today in psychology.
+most prevalent today in psychology. The Center for Open Science Preregistration Challenge is helping to popularise it more broadly, some interest in the fields of ecology and evolution now but definitely not mainstream https://cos.io/prereg/ 
 
 
 
