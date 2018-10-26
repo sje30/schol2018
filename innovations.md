@@ -1,7 +1,7 @@
 
 
 <http://www.emergtoplifesci.org/>
-<pre>
+U<pre>
 
 Therefore, I wanted to get in touch as we are putting together an
 issue of our interdisciplinary journal, Emerging Topics in Life
@@ -216,3 +216,8 @@ https://www.nature.com/articles/d41586-018-07101-w [Accessed October
 
 Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
 https://arxiv.org/abs/1706.04188.
+
+Anon (2017) Are preprints the future of biology? A survival guide for
+scientists. Science | AAAS Available at:
+https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
+[Accessed October 26, 2018].
