@@ -43,6 +43,7 @@ weekend time-permitting.
 # Authors: 
 
 SJE https://orcid.org/0000-0001-8607-8025
+RM https://orcid.org/0000-0002-3520-2046
 
 (add your name and orcid here)
 
@@ -126,7 +127,10 @@ researchers.  Journals are adopting these allowing for easy linking of paper.
 DORA https://sfdora.org/ -- declaration for individiauls and institutions to commit to
 evaluating research based on its content rather than metrics.  Many
 funders in the UK have signed up, although only a few Universites to
-date have signed.
+date have signed. See also the Leiden Manifesto for Research Metrics which is similar but different (http://www.leidenmanifesto.org/).
+
+**Published Peer Review Reports**.
+Many journals now already or have pledged to provide greater transparency about the quality of peer review they provide by publishing the content of the reviewer reports alongside published articles. Notably two large open access publishers PLOS and MDPI are amongst those that are pledging to provide greater transparency http://asapbio.org/letter
 
 **Post publication peer review**.  Journal that immediately publish a
 paper upon submission; reviews are then sought for the preprint and
@@ -144,11 +148,13 @@ life science journals are now dropping these formatting requirements
 for initial submissions, instead allowing "format free" submissions [
 see also; https://asntech.github.io/format-free-journals/].
 
+**Stronger data sharing policies and expectations**
+Perhaps cite: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194768
 
 
-**Badges** to promote sharing of resrouces, rather than just the
-papers.  e.g. mention data papers?  (Not sure whether to includes
-this.)
+**Badges** to promote sharing of resources, rather than just the
+papers.  e.g. mention data papers?  (Not sure whether to include
+this.) (Ross: I'm not that enthused about badges https://blogs.plos.org/absolutely-maybe/2017/08/29/bias-in-open-science-advocacy-the-case-of-article-badges-for-data-sharing/ )
 
 
 ## Funder mandates and compliance
@@ -167,7 +173,7 @@ summarising work supported by internal, rather than external, funds.
 
 One perhaps unintended consequence of these policies has been that
 most traditional journals have established a "hybrid" model of
-publishing, with APCs that often exceed those in pure OA journals.
+publishing, with APCs that on average exceed those in pure OA journals (cite https://doi.org/10.1002/asi.23742 or a reference within).
 This hybrid model of publishing has shown little signs to date of
 disappearing, as e.g. funds from Wellcome Trust have supported high
 APCs. The success of OA publishing however has meant that
