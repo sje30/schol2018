@@ -184,3 +184,16 @@ of the APC cap, recognition of green and diamond OA).
 
 Perhaps need a list of key abbreviations/terms that are jargon
 (APCs/hybrid/diamond OA).
+
+Else H (2018) Radical open-access plan could spell end to journal
+subscriptions. Nature 561:17–18 Available at:
+http://dx.doi.org/10.1038/d41586-018-06178-7.
+
+Nosek BA, Ebersole CR, DeHaven AC, Mellor DT (2018) The
+preregistration revolution. Proc Natl Acad Sci U S A 115:2600–2606
+Available at: http://dx.doi.org/10.1073/pnas.1708274114.
+
+Larivière V, Sugimoto CR (2018) Do authors comply when funders enforce
+open access to research? Nature 562:483 Available at:
+https://www.nature.com/articles/d41586-018-07101-w [Accessed October
+25, 2018].
