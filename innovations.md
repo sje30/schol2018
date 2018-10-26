@@ -118,11 +118,9 @@ most prevalent today in psychology.
 
 ## Other recent innovations of note
 
-PubPeer <https://pubpeer.com/> allows for the open critique and
-commentary of publications.
 
-Orcid <https://orcid.org> provides a digital identifier for
-researchers.  Journals are adopting these allowing for easy linking of paper.
+ORCiD <https://orcid.org> provides a persistent, unique digital identifier for
+researchers.  Many journals now require that at least one author verifies their identity as author using ORCiD. Cite https://orcid.org/content/requiring-orcid-publication-workflows-open-letter This will undoubtedly help reduce many types of authorship fraud (cite http://nautil.us/issue/42/fakes/why-fake-data-when-you-can-fake-a-scientist ?)  
 
 DORA https://sfdora.org/ -- declaration for individiauls and institutions to commit to
 evaluating research based on its content rather than metrics.  Many
@@ -130,7 +128,7 @@ funders in the UK have signed up, although only a few Universites to
 date have signed. See also the Leiden Manifesto for Research Metrics which is similar but different (http://www.leidenmanifesto.org/).
 
 **Published Peer Review Reports**.
-Many journals now already or have pledged to provide greater transparency about the quality of peer review they provide by publishing the content of the reviewer reports alongside published articles. Notably two large open access publishers PLOS and MDPI are amongst those that are pledging to provide greater transparency http://asapbio.org/letter
+Many journals now already or have pledged to provide greater transparency about the quality of peer review they provide by publishing the content of the reviewer reports alongside published articles. Notably two large open access publishers PLOS and MDPI are amongst those that are pledging to provide greater transparency from 2019 http://asapbio.org/letter Crossref can now register DOIs for peer review reports as a distinct content type, and formally link these to the DOIs of the articles they review (cite: https://www.crossref.org/news/2018-06-05-introducing-metadata-for-peer-review/ ). PubPeer <https://pubpeer.com/> allows reviewers to 'claim' metadata records on their profile for peer reviews and editorial work they have done.
 
 **Post publication peer review**.  Journal that immediately publish a
 paper upon submission; reviews are then sought for the preprint and
