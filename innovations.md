@@ -126,16 +126,14 @@ rather than metrics.  Most UK funders have signed, although only a few
 Universites have signed. See also the Leiden Manifesto for Research
 Metrics (http://www.leidenmanifesto.org/).
 
-**Published Peer Review Reports**.
-
-Many journals now already or have pledged to provide greater
-transparency about the quality of peer review they provide by
-publishing the content of the reviewer reports alongside published
-articles. Notably two large open access publishers PLOS and MDPI are
-amongst those that are pledging to provide greater transparency from
-2019 http://asapbio.org/letter.  PubPeer <https://pubpeer.com/>
-allows reviewers to 'claim' metadata records on their profile for peer
-reviewing and editorial work they have done.
+**Published Peer Review Reports**.  Many journals now already or have
+pledged to provide greater transparency about the quality of peer
+review they provide by publishing the content of the reviewer reports
+alongside published articles. Notably two large open access publishers
+PLOS and MDPI are amongst those that are pledging to provide greater
+transparency from 2019 http://asapbio.org/letter.  PubPeer
+<https://pubpeer.com/> allows reviewers to 'claim' metadata records on
+their profile for peer reviewing and editorial work they have done.
 
 **Post publication peer review**.  A journal may immediately publish a
 paper upon submission; reviews are then sought for the preprint and
