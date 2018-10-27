@@ -35,15 +35,8 @@ piece in the next few weeks (1 November deadline).  </pre>
 
 # Scholarly publishing in the life sciences: the life scientists' perspective.
 
-**Warning**: almost all data/numbers in here are wrong -- I've just
-drafted this in the mode of "get it written, don't get it right".
-I'll check the data (e.g. for biorxiv), add refs, as I go along this
-weekend time-permitting.
-
-# Authors: 
-
-SJE https://orcid.org/0000-0001-8607-8025
-RM https://orcid.org/0000-0002-3520-2046
+Stephen J Eglen [orcid](https://orcid.org/0000-0001-8607-8025),
+Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046|).
 
 **(add your name and orcid here)**
 
