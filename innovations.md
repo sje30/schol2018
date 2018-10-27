@@ -92,10 +92,12 @@ There are many reasons for this usage:
 
 
 Several other preprint servers have been created in recent year, in
-particular PeerJ Preprints, OSF Preprint servers, and preprints.org,
-although to date BioRxiv is the dominant repository (Figure 1).
-Unlike a few years ago, very few (if any?)  journals in the life
-sciences now regard a preprint as prior publication of that work.
+particular [PeerJ Preprints](https://peerj.com/preprints/), [OSF
+Preprint servers](https://osf.io/preprints/), and
+[preprints.org](https://preprints.org), although to date BioRxiv is
+the dominant repository.  Unlike a few years ago, very few journals in
+the life sciences now regard a preprint as prior publication of that
+work.
 
 ## Preregistration studies
 
@@ -287,3 +289,5 @@ Crossref can now register DOIs for peer
 review reports as a distinct content type, and formally link these to
 the DOIs of the articles they review
 (https://www.crossref.org/news/2018-06-05-introducing-metadata-for-peer-review/).
+
+Nice figure for preprint usage at: http://www.prepubmed.org/monthly_stats/
