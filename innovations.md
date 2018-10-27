@@ -1,5 +1,3 @@
-
-
 <http://www.emergtoplifesci.org/>
 <pre>
 
@@ -16,11 +14,11 @@ questions:
 
 
 *         What does the scholarly publishing landscape look like in
-          2018 (from a life scientists perspective)?
+	  2018 (from a life scientists perspective)?
 
 *         What are the considerations, regulations and expectations
-          from the perspective of a life science researcher, and what
-          do the pros and cons of compliance look like to them?
+	  from the perspective of a life science researcher, and what
+	  do the pros and cons of compliance look like to them?
 
 *         How are emerging topics in scholarly publishing improving or holding back the science?
 
@@ -37,6 +35,7 @@ piece in the next few weeks (1 November deadline).  </pre>
 
 Stephen J Eglen [orcid](https://orcid.org/0000-0001-8607-8025),
 Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046).
+Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268)
 
 **(add your name and orcid here)**
 
@@ -111,11 +110,22 @@ Preregistration is most prevalent today in psychology. The Center for
 Open Science Preregistration Challenge https://cos.io/prereg/ is
 helping to popularise this notion more broadly.
 
+## Reproducible manuscripts
+
+Reproducible documents, i.e. documents that contain the main text
+as well as the code to generate tables, figures and results have
+been around for decades, and have been widely used in many
+research fields. However, even though researchers have been
+committed to reproducible research, the reproducibility of the
+final outputs were generally broken upon submission to
+journals. Recently, some journals have published fully
+reproducible manuscripts. Examples (need to get the links) are
+eLife, F1000Research, ... (other examples?).
 
 ## Other recent innovations of note
 
 
-ORCiD <https://orcid.org> provides a persistent, unique digital identifier for
+**ORCiD** <https://orcid.org> provides a persistent, unique digital identifier for
 researchers.  Many journals now require that at least one author
 verifies their identity as author using ORCiD
 [https://orcid.org/content/requiring-orcid-publication-workflows-open-letter].
@@ -148,7 +158,7 @@ strict formatting requirements for manuscripts before peer review.
 As editors at top-tier journals 'desk reject' most submissions before
 peer review, this leads to many wasted hours [Budd 2017].  Gradually
 life science journals are now dropping these formatting requirements
-for initial submissions, instead allowing "format free" submissions 
+for initial submissions, instead allowing "format free" submissions
 [Khan 2017; see  also https://asntech.github.io/format-free-journals/].
 
 **Stronger data sharing policies and community expectations** Both
@@ -274,7 +284,7 @@ OA overlay journals in the life sciences.
 papers.  e.g. mention data papers?  (Not sure whether to include
 this.) (Ross: I'm not that enthused about badges https://blogs.plos.org/absolutely-maybe/2017/08/29/bias-in-open-science-advocacy-the-case-of-article-badges-for-data-sharing/ )
 
-ORCID This will undoubtedly help reduce many types of authorship fraud (cite http://nautil.us/issue/42/fakes/why-fake-data-when-you-can-fake-a-scientist ?)  
+ORCID This will undoubtedly help reduce many types of authorship fraud (cite http://nautil.us/issue/42/fakes/why-fake-data-when-you-can-fake-a-scientist ?)
 
 Crossref can now register DOIs for peer
 review reports as a distinct content type, and formally link these to
