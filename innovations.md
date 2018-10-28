@@ -218,9 +218,9 @@ journals for which APCs will be paid.  However, The OA publishing
 world is due to change dramatically in 2020 with the recent
 announcement of "plan S" [Schiltz 2018], a European initiative to
 enforce OA, cap APCs and prohibit publishing in hybrid journals.
-Whilst we support the notions underlying plan S, until further details
-are released (e.g. the nature of the APC cap, recognition of green and
-diamond OA).
+Whilst we support the notions underlying plan S, its success will
+depend on further implementation details (e.g. the nature of the APC cap, recognition
+of green and diamond OA).
 
 
 
