@@ -35,7 +35,8 @@ piece in the next few weeks (1 November deadline).  </pre>
 
 Stephen J Eglen [orcid](https://orcid.org/0000-0001-8607-8025),
 Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046),
-Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268).
+Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268),
+Adrian M Currie [orcid](https://orcid.org/0000-0003-2638-202X).
 
 **(add your name and orcid here)**
 
