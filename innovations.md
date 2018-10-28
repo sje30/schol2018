@@ -112,7 +112,7 @@ reproducibility.  However, here we list three encouraging developments
 that should promote reproducibility.
 
 **Preregistration papers.** An encouraging response to this crisis has
-been the adoption of preregistratation papers [Nosek 2018].  These
+been the adoption of preregistration papers [Nosek 2018].  These
 papers typically describe the introduction and methods sections of a
 paper, and are peer-reviewed *before* the study is actually performed.
 This allows reviewers to improve the study design and commits
