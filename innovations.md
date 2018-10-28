@@ -48,7 +48,7 @@ ten years. Publishing in prestigious top-tier journals is still
 perceived as critical for career progression (especially gaining
 promotion and grants). Likewise, journal metrics continue to dominate
 in the evaluation of a paper’s research, rather than the paper’s
-contents [Brenner]. Against the backdrop of highly competitive job and
+contents [Brenner 1995]. Against the backdrop of highly competitive job and
 grant markets, factors such as these encourage narrow research agendas
 and tie researchers (particularly in early career) to placing work in
 exploitative publishers who draw significant funds from academic
@@ -235,15 +235,6 @@ researchers that they currently face in the "publish or perish"
 culture.  We encourage the adoption of the above open practices to
 help create a more ethical research environment.
 
-
-
-
-
-
-
-overlay journals?
-
-
 # Glossary/abbreviations
 
 
@@ -252,47 +243,44 @@ Perhaps need a list of key abbreviations/terms that are jargon
 
 # References
 
-Khan A, Montenegro-Montero A, Mathelier A (2018) Put science first and
-formatting later. EMBO Rep 19 Available at:
-http://dx.doi.org/10.15252/embr.201845731.
-
 Baker M (2016) 1,500 scientists lift the lid on
 reproducibility. Nature 533:452–454 Available at:
-http://dx.doi.org/10.1038/533452a.
+http://dx.doi.org/10.1038/533452a
+
+Brenner S (1995) Loose end. Curr Biol 5:568 Available at:
+http://www.sciencedirect.com/science/article/pii/S096098229500109X
 
 Budd J (2017) Publishing: Reformatting wastes public funds. Nature
-543:40 Available at: http://dx.doi.org/10.1038/543040e.
+543:40 Available at: http://dx.doi.org/10.1038/543040e
 
 Else H (2018) Radical open-access plan could spell end to journal
 subscriptions. Nature 561:17–18 Available at:
-http://dx.doi.org/10.1038/d41586-018-06178-7.
+http://dx.doi.org/10.1038/d41586-018-06178-7
 
 Federer LM, Belter CW, Joubert DJ, Livinski A, Lu Y-L, Snyders LN,
 Thompson H (2018) Data sharing in PLOS ONE: An analysis of Data
 Availability Statements. PLoS One 13:e0194768 Available at:
-http://dx.doi.org/10.1371/journal.pone.0194768.
+http://dx.doi.org/10.1371/journal.pone.0194768
 
-Nosek BA, Ebersole CR, DeHaven AC, Mellor DT (2018) The
-preregistration revolution. Proc Natl Acad Sci U S A 115:2600–2606
-Available at: http://dx.doi.org/10.1073/pnas.1708274114.
+Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
+https://arxiv.org/abs/1706.04188
+
+Khan A, Montenegro-Montero A, Mathelier A (2018) Put science first and
+formatting later. EMBO Rep 19 Available at:
+http://dx.doi.org/10.15252/embr.201845731
 
 Larivière V, Sugimoto CR (2018) Do authors comply when funders enforce
 open access to research? Nature 562:483 Available at:
-https://www.nature.com/articles/d41586-018-07101-w [Accessed October
-25, 2018].
+https://www.nature.com/articles/d41586-018-07101-w
 
-Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
-https://arxiv.org/abs/1706.04188.
-
-Anon (2017) Are preprints the future of biology? A survival guide for
-scientists. Science | AAAS Available at:
-https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
-[Accessed October 26, 2018].
+Nosek BA, Ebersole CR, DeHaven AC, Mellor DT (2018) The
+preregistration revolution. Proc Natl Acad Sci U S A 115:2600–2606
+Available at: http://dx.doi.org/10.1073/pnas.1708274114
 
 Schiltz M (2018) Science without publication paywalls: cOAlition S for
 the realisation of full and immediate Open Access. PLoS Biol
 16:e3000031 Available at:
-http://dx.doi.org/10.1371/journal.pbio.3000031.
+http://dx.doi.org/10.1371/journal.pbio.3000031
 
 
 # notes (not for paper)
@@ -314,3 +302,8 @@ the DOIs of the articles they review
 (https://www.crossref.org/news/2018-06-05-introducing-metadata-for-peer-review/).
 
 Nice figure for preprint usage at: http://www.prepubmed.org/monthly_stats/
+Anon (2017) Are preprints the future of biology? A survival guide for
+scientists. Science | AAAS Available at:
+https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
+
+
