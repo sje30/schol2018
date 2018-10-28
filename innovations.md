@@ -34,37 +34,46 @@ piece in the next few weeks (1 November deadline).  </pre>
 # Scholarly publishing in the life sciences: the life scientists' perspective.
 
 Stephen J Eglen [orcid](https://orcid.org/0000-0001-8607-8025),
-Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046).
-Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268)
+Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046),
+Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268).
 
 **(add your name and orcid here)**
 
 # Introduction
 
-In some ways, the state of scholarly publishing has not changed much
-in the last ten years.  Publishing in a top-tier journal is still
-perceived as critical for career progression (promotion, gaining
-grants) by scientists.  Likewise, journal metrics continue to dominate
-in the evalution of a paper's research, rather than reading the paper
-itself [Brenner].  However, there are several reasons for optimism
-that the nature of scientific publishing will improve.  Here we
-outline some recent deveopments in the life sciences.
+
+In some ways, scholarly publishing has not changed much in the last
+ten years. Publishing in prestigious top-tier journals is still
+perceived as critical for career progression (especially gaining
+promotion and grants). Likewise, journal metrics continue to dominate
+in the evalution of a paper’s research, rather than the paper’s
+contents [Brenner]. Against the backdrop of highly competitive job and
+grant markets, factors such as these encourage narrow research agendas
+and tie researchers (particularly in early career) to placing work in
+exploitative publishers who draw significant funds from academic
+work. Further, standard publishing criteria, especially for instance on
+publishing statistically significant, positive results, creates biases
+across published studies. However, there are several reasons for
+optimism that the nature of scientific publishing will improve. Here
+we outline some recent deveopments in the life sciences.
+
+
 
 ## Preprints
 
-Since 1991 physicists have heralded the preprint server ArXiv
-[Ginsparg 2017] as a rapid way of disseminating their research
-findings.  On the surface, it does not provide much beyond a
-collection of PDFs grouped by topic.  In certain fields, being the
-first to publish on the ArXiv is considered to be the key step,
-although subsequent journal publication is still the norm.  Although
-ArXiv hosts papers in quantitative biology, it was assumed that
-biologists would not adopt a preprint culture: publishing a preprint
-might prevent subsequent publication in a top-tier journal, or leading
-to scooping by another group.
+Since 1991 ArXiv [Ginsparg 2017] has become a standard tool for
+physicists to rapidly disseminate their research findings.  On the
+surface, it does not provide much beyond a collection of PDFs grouped
+by topic.  In certain fields, being the first to publish on the ArXiv
+is considered to be the key step, although subsequent journal
+publication is still the norm.  Although ArXiv hosts papers in
+quantitative biology, it was initially assumed that biologists would
+not adopt a preprint culture: publishing a preprint might prevent
+subsequent publication in a top-tier journal, or leading to scooping
+by another group.
 
 BiorXiv, launched in 2013, has overcome these concerns. Researchers in
-diverse areas as ecology, neuroscience, genomics are uploading
+diverse areas as ecology, neuroscience and genomics are uploading
 preprints and choosing to share their work ahead of publication.
 There are many reasons for this usage:
 
@@ -77,7 +86,7 @@ There are many reasons for this usage:
   relevant papers be submitted to their journal.  (How widespread this
   is, I'm not sure.)
 * BioRxiv preprints can be transferred rapidly to journal submission
-  sytems rather than going through (often lengthy) direct submission
+  systems rather than going through (often lengthy) direct submission
   to the journal.
 * Several funding agencies, including NIH and UKRI, allows
   preprints to be listed and cited in grant applications.
@@ -87,32 +96,47 @@ Several other preprint servers have been created in recent year, in
 particular [PeerJ Preprints](https://peerj.com/preprints/), [OSF
 Preprint servers](https://osf.io/preprints/), and
 [preprints.org](https://preprints.org), although to date BioRxiv is
-the dominant repository.  Unlike a few years ago, very few journals in
-the life sciences now regard a preprint as prior publication of that
-work.
+the dominant repository.  Unlike a few years ago, most journals in the
+life sciences no longer see prior appearance in a repository as a
+block to formal publication.
 
-## Preregistration studies
+## Overcoming the reproducibility crisis
 
 According to recent surveys, life scientists across many domains
-believe there is a "reproducibility crisis" in science: i.e. key
-findings of a paper have not been independently verified [REF].  An
-encouraging response to this crisis has been the adoption of
-preregistratation papers [Nosek 2018].  These papers typically
-describe the introduction and methods sections of a paper, and are
-peer-reviewed *before* the study is actually performed.  This allows
-reviewers to improve the study design and commits researchers to
-hypotheses that they wish to study along with their statistical
-analysis.  Once the pre-registration study is approved, it is then
-published.  After the research is completed, another paper describes
-the results of the study using the pre-registered methods.
+believe there is a "reproducibility crisis" in science: i.e. many key
+key findings in publications are either not independently verified, or
+fail verification when it is done [REF].  The traditional publishing
+system must take some responsibility for these low-levels of
+reproducibility.  However, here we list three encouraging developments
+that should promote reproducbility.
+
+**Preregistration papers.** An encouraging response to this crisis has
+been the adoption of preregistratation papers [Nosek 2018].  These
+papers typically describe the introduction and methods sections of a
+paper, and are peer-reviewed *before* the study is actually performed.
+This allows reviewers to improve the study design and commits
+researchers to hypotheses that they wish to study along with their
+statistical analysis.  Once the pre-registration study is approved, it
+is then published.  After the research is completed, another paper
+describes the results of the study using the pre-registered methods.
 (Additional findings can be reported, but are clearly marked as such.)
-Preregistration is most prevalent today in psychology. The Center for
+Preregistration is most prevalent today in psychology; The Center for
 Open Science Preregistration Challenge https://cos.io/prereg/ is
 helping to popularise this notion more broadly.
 
-## Reproducible manuscripts
+**Stronger data sharing policies and community expectations.** Both
+funders and journals are now making stronger statements about what
+research materials (data, computer programs, reagents) should be
+shared upon publication of the corresponding articles.  Although these
+policies should increase data availability and reuse, the current
+compliance rates are quite low [Federer et al 2018].  Given that it
+can take considerable time and effort (for both researchers and
+journals) to ensure data is appropriately shared, these low-uptake
+rates are perhaps expected.  To reward authors for this work, "data
+papers" (a paper  that simply describes the data) are becoming more
+prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
 
-Reproducible documents, i.e. documents that contain the main text
+**Reproducible manuscripts**  are documents that contain the main text
 as well as the code to generate tables, figures and results have
 been around for decades, and have been widely used in many
 research fields. However, even though researchers have been
@@ -130,7 +154,7 @@ researchers.  Many journals now require that at least one author
 verifies their identity as author using ORCiD
 [https://orcid.org/content/requiring-orcid-publication-workflows-open-letter].
 
-**DORA** https://sfdora.org/ is a declaration for individiauls and
+**DORA** https://sfdora.org/ is a declaration for individuals and
 institutions to commit to evaluating research based on its content
 rather than metrics.  Most UK funders have signed, although only a few
 Universites have signed. See also the Leiden Manifesto for Research
@@ -161,17 +185,6 @@ life science journals are now dropping these formatting requirements
 for initial submissions, instead allowing "format free" submissions
 [Khan 2017; see  also https://asntech.github.io/format-free-journals/].
 
-**Stronger data sharing policies and community expectations** Both
-funders and journals are now making stronger statements about what
-research materials (data, computer programs, reagents) should be
-shared upon publication of the corresponding articles.  Although these
-policies should increase data availability and reuse, the current
-compliance rates are quite low [Federer et al 2018].  Given that it
-can take considerable time and effort (for both researchers and
-journals) to ensure data is appropriately shared, these low-uptake
-rates are perhaps expected.  To reward authors for this work, "data
-papers" (a paper  that simply describes the data) are becoming more
-prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
 
 
 
@@ -181,7 +194,7 @@ prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
 ## Funder mandates and compliance
 
 Key Funders in the UK have had policies in place supporting open
-access for many years.  IN particular, the Wellcome Trust has mandated
+access for many years.  In particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
 for non-compliance.  Compliance rates (around 90%) are highest for the
 WT, as of October 2017 [Larivière and Sugimoto 2018], with compliance
@@ -212,14 +225,14 @@ diamond OA).
 
 # Concluding remarks
 
+Current publication practices can often lead early career researchers
+to be ‘Bullied into Bad Science’ (http://bulliedintobadscience.org/).
 We have outlined several recent developments that we hope present
 alternatives to the traditional hierarchy of scholarly publishing.
 These develpments should help reduce the pressure on early career
 researchers that they currently face in the "publish or perish"
-culture.  To recognise this pressure, we have created an initiative
-called *Bullied into Bad Science* (http://bulliedintobadscience.org/).
-We encourage the adoption of the above open practices to help create a
-more ethical research environment.
+culture.  We encourage the adoption of the above open practices to
+help create a more ethical research environment.
 
 
 
