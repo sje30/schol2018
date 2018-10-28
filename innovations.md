@@ -46,7 +46,7 @@ In some ways, scholarly publishing has not changed much in the last
 ten years. Publishing in prestigious top-tier journals is still
 perceived as critical for career progression (especially gaining
 promotion and grants). Likewise, journal metrics continue to dominate
-in the evalution of a paper’s research, rather than the paper’s
+in the evaluation of a paper’s research, rather than the paper’s
 contents [Brenner]. Against the backdrop of highly competitive job and
 grant markets, factors such as these encourage narrow research agendas
 and tie researchers (particularly in early career) to placing work in
@@ -55,7 +55,7 @@ work. Further, standard publishing criteria, especially for instance on
 publishing statistically significant, positive results, creates biases
 across published studies. However, there are several reasons for
 optimism that the nature of scientific publishing will improve. Here
-we outline some recent deveopments in the life sciences.
+we outline some recent developments in the life sciences.
 
 
 
@@ -105,10 +105,10 @@ block to formal publication.
 According to recent surveys, life scientists across many domains
 believe there is a "reproducibility crisis" in science: i.e. many key
 key findings in publications are either not independently verified, or
-fail verification when it is done [REF].  The traditional publishing
+fail verification when it is done [Baker 2016].  The traditional publishing
 system must take some responsibility for these low-levels of
 reproducibility.  However, here we list three encouraging developments
-that should promote reproducbility.
+that should promote reproducibility.
 
 **Preregistration papers.** An encouraging response to this crisis has
 been the adoption of preregistratation papers [Nosek 2018].  These
@@ -157,7 +157,7 @@ verifies their identity as author using ORCiD
 **DORA** https://sfdora.org/ is a declaration for individuals and
 institutions to commit to evaluating research based on its content
 rather than metrics.  Most UK funders have signed, although only a few
-Universites have signed. See also the Leiden Manifesto for Research
+universities have signed. See also the Leiden Manifesto for Research
 Metrics (http://www.leidenmanifesto.org/).
 
 **Published Peer Review Reports**.  Many journals now already or have
@@ -172,7 +172,7 @@ their profile for peer reviewing and editorial work they have done.
 **Post publication peer review**.  A journal may immediately publish a
 paper upon submission; reviews are then sought for the preprint and
 made public.  If sufficient reviewers support publication, the
-article is formally accepted and e.g. listed on pubmed.  Leading examples of
+article is formally accepted and e.g. listed on Pubmed.  Leading examples of
 this approach are F1000 Research, who provide the infrastructure for
 several institution- and funder-specific journals, such as *Wellcome
 Open Research* and *Gates Open Research*.
@@ -193,7 +193,7 @@ for initial submissions, instead allowing "format free" submissions
 
 ## Funder mandates and compliance
 
-Key Funders in the UK have had policies in place supporting open
+Key funders in the UK have had policies in place supporting open
 access for many years.  In particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
 for non-compliance.  Compliance rates (around 90%) are highest for the
@@ -211,7 +211,7 @@ publishing, with APCs that on average exceed those in pure OA journals
 [Pinfield et al 2017].  This hybrid model of publishing has shown
 little signs to date of disappearing, as e.g. funds from Wellcome
 Trust have supported high APCs. The success of OA publishing however
-has meant that goverment-provided funds can often no longer cover all
+has meant that government-provided funds can often no longer cover all
 APCs and UK institutions are beginning to restrict the choice of
 journals for which APCs will be paid.  However, The OA publishing
 world is due to change dramatically in 2020 with the recent
@@ -229,7 +229,7 @@ Current publication practices can often lead early career researchers
 to be ‘Bullied into Bad Science’ (http://bulliedintobadscience.org/).
 We have outlined several recent developments that we hope present
 alternatives to the traditional hierarchy of scholarly publishing.
-These develpments should help reduce the pressure on early career
+These developments should help reduce the pressure on early career
 researchers that they currently face in the "publish or perish"
 culture.  We encourage the adoption of the above open practices to
 help create a more ethical research environment.
@@ -254,6 +254,10 @@ Perhaps need a list of key abbreviations/terms that are jargon
 Khan A, Montenegro-Montero A, Mathelier A (2018) Put science first and
 formatting later. EMBO Rep 19 Available at:
 http://dx.doi.org/10.15252/embr.201845731.
+
+Baker M (2016) 1,500 scientists lift the lid on
+reproducibility. Nature 533:452–454 Available at:
+http://dx.doi.org/10.1038/533452a.
 
 Budd J (2017) Publishing: Reformatting wastes public funds. Nature
 543:40 Available at: http://dx.doi.org/10.1038/543040e.
@@ -284,6 +288,10 @@ scientists. Science | AAAS Available at:
 https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
 [Accessed October 26, 2018].
 
+Schiltz M (2018) Science without publication paywalls: cOAlition S for
+the realisation of full and immediate Open Access. PLoS Biol
+16:e3000031 Available at:
+http://dx.doi.org/10.1371/journal.pbio.3000031.
 
 
 # notes (not for paper)
