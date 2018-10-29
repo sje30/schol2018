@@ -1,42 +1,9 @@
-<http://www.emergtoplifesci.org/>
-<pre>
-
-Therefore, I wanted to get in touch as we are putting together an
-issue of our interdisciplinary journal, Emerging Topics in Life
-Sciences <http://www.emergtoplifesci.org/>, on the scholarly publishing
-landscape, with the focus being on the current impact on and
-implications for life science researchers. The issue would cover a
-number of aspects of the scholarly publishing landscape, including
-research data, open science, persistent identifiers, models of peer
-review, research ethics, and we would like to cover the view from a
-life science researcher. In particular, thinking about the following
-questions:
-
-
-*         What does the scholarly publishing landscape look like in
-	  2018 (from a life scientists perspective)?
-
-*         What are the considerations, regulations and expectations
-	  from the perspective of a life science researcher, and what
-	  do the pros and cons of compliance look like to them?
-
-*         How are emerging topics in scholarly publishing improving or holding back the science?
-
-Would you be interested in writing a short perspective piece on
-emerging topics in scholarly publishing and the impact and implication
-for the life science researcher? We are asking for short
-(approx. 1000-1500 words) pieces. Given that this issue needs to be
-published before the end of the year, we would need submission of the
-piece in the next few weeks (1 November deadline).  </pre>
-
-
-
 # Recent developments in scholarly publishing: a view from the life sciences
 
-Stephen J Eglen [orcid](https://orcid.org/0000-0001-8607-8025),
-Ross Mounce [orcid](https://orcid.org/0000-0002-3520-2046),
-Laurent Gatto [orcid](https://orcid.org/0000-0002-1520-2268),
-Adrian M Currie [orcid](https://orcid.org/0000-0003-2638-202X).
+Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
+Ross Mounce [(orcid)](https://orcid.org/0000-0002-3520-2046),
+Laurent Gatto [(orcid)](https://orcid.org/0000-0002-1520-2268),
+Adrian M Currie [(orcid)](https://orcid.org/0000-0003-2638-202X).
 
 **(add your name and orcid here)**
 
@@ -48,7 +15,7 @@ ten years. Publishing in prestigious top-tier journals is still
 perceived as critical for career progression (especially gaining
 promotion and grants). Likewise, journal metrics continue to dominate
 in the evaluation of a paper’s research, rather than the paper’s
-contents [Brenner 1995]. Against the backdrop of highly competitive job and
+contents [@Brenner1995-kk]. Against the backdrop of highly competitive job and
 grant markets, factors such as these encourage narrow research agendas
 and tie researchers (particularly in early career) to placing work in
 exploitative publishers who draw significant funds from academic
@@ -62,7 +29,7 @@ we outline some recent developments in the life sciences.
 
 ## Preprints
 
-Since 1991 ArXiv [Ginsparg 2017] has become a standard tool for
+Since 1991 ArXiv [@Ginsparg2017] has become a standard tool for
 physicists to rapidly disseminate their research findings.  On the
 surface, it does not provide much beyond a collection of PDFs grouped
 by topic.  In certain fields, being the first to publish on the ArXiv
@@ -71,7 +38,11 @@ publication is still the norm.  Although ArXiv hosts papers in
 quantitative biology, it was initially assumed that biologists would
 not adopt a preprint culture: publishing a preprint might prevent
 subsequent publication in a top-tier journal, or leading to scooping
-by another group.
+by another group.  There is some historic
+justification of these concerns, as an NIH experiment in preprints was
+effectively halted in the 1960s by journals' refusal to accept
+preprints for submission [@Cobb2017-tv].
+
 
 BiorXiv, launched in 2013, has overcome these concerns. Researchers in
 diverse areas as ecology, neuroscience and genomics are uploading
@@ -106,13 +77,13 @@ block to formal publication.
 According to recent surveys, life scientists across many domains
 believe there is a "reproducibility crisis" in science: i.e. many key
 key findings in publications are either not independently verified, or
-fail verification when it is done [Baker 2016].  The traditional publishing
+fail verification when it is done [@Baker2016-wr].  The traditional publishing
 system must take some responsibility for these low-levels of
 reproducibility.  However, here we list three encouraging developments
 that should promote reproducibility.
 
 **Preregistration papers.** An encouraging response to this crisis has
-been the adoption of preregistration papers [Nosek 2018].  These
+been the adoption of preregistration papers [@Nosek2018-my].  These
 papers typically describe the introduction and methods sections of a
 paper, and are peer-reviewed *before* the study is actually performed.
 This allows reviewers to improve the study design and commits
@@ -130,7 +101,7 @@ funders and journals are now making stronger statements about what
 research materials (data, computer programs, reagents) should be
 shared upon publication of the corresponding articles.  Although these
 policies should increase data availability and reuse, the current
-compliance rates are quite low [Federer et al 2018].  Given that it
+compliance rates are quite low [@Federer2018-qg].  Given that it
 can take considerable time and effort (for both researchers and
 journals) to ensure data is appropriately shared, these low-uptake
 rates are perhaps expected.  To reward authors for this work, "data
@@ -188,16 +159,10 @@ Open Research* and *Gates Open Research*.
 **Format free submissions**.  Journals have traditionally imposed
 strict formatting requirements for manuscripts before peer review.
 As editors at top-tier journals 'desk reject' most submissions before
-peer review, this leads to many wasted hours [Budd 2017].  Gradually
+peer review, this leads to many wasted hours [@Budd2017-gd].  Gradually
 life science journals are now dropping these formatting requirements
 for initial submissions, instead allowing "format free" submissions
-[Khan 2017; see  also https://asntech.github.io/format-free-journals/].
-
-
-
-
-
-
+[@Khan2018-zm; see  also https://asntech.github.io/format-free-journals/].
 
 ## Funder mandates and compliance
 
@@ -205,7 +170,7 @@ Key funders in the UK have had policies in place supporting open
 access for many years.  In particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
 for non-compliance.  Compliance rates (around 90%) are highest for the
-WT, as of October 2017 [Larivière and Sugimoto 2018], with compliance
+WT, as of October 2017 [@Lariviere2018-nc], with compliance
 for other main funders varying at 70-90%.  Where work has been
 supported by relevant funding agencies, our experience to date is that
 funds have always been available to support APCs.  However, one of us
@@ -216,14 +181,14 @@ summarising work supported by internal, rather than external, funds.
 One perhaps unintended consequence of these policies has been that
 most traditional journals have established a "hybrid" model of
 publishing, with APCs that on average exceed those in pure OA journals
-[Pinfield et al 2017].  This hybrid model of publishing has shown
+[@Pinfield2017-qs].  This hybrid model of publishing has shown
 little signs to date of disappearing, as e.g. funds from Wellcome
 Trust have supported high APCs. The success of OA publishing however
 has meant that government-provided funds can often no longer cover all
 APCs and UK institutions are beginning to restrict the choice of
 journals for which APCs will be paid.  However, The OA publishing
 world is due to change dramatically in 2020 with the recent
-announcement of "plan S" [Schiltz 2018], a European initiative to
+announcement of "plan S" [@Schiltz2018-jn], a European initiative to
 enforce OA, cap APCs and prohibit publishing in hybrid journals.
 Whilst we support the notions underlying plan S, its success will
 depend on further implementation details (e.g. the nature of the APC cap, recognition
@@ -269,10 +234,6 @@ Else H (2018) Radical open-access plan could spell end to journal
 subscriptions. Nature 561:17–18 Available at:
 http://dx.doi.org/10.1038/d41586-018-06178-7
 
-Federer LM, Belter CW, Joubert DJ, Livinski A, Lu Y-L, Snyders LN,
-Thompson H (2018) Data sharing in PLOS ONE: An analysis of Data
-Availability Statements. PLoS One 13:e0194768 Available at:
-http://dx.doi.org/10.1371/journal.pone.0194768
 
 Gatto L, Christoforou A. Using R and Bioconductor for proteomics data
 analysis. Biochim Biophys Acta. 2014 Jan;1844(1 Pt A):42-51. doi:
@@ -282,25 +243,8 @@ http://dx.doi.org:10.1016/j.bbapap.2013.04.032.
 Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
 https://arxiv.org/abs/1706.04188
 
-Khan A, Montenegro-Montero A, Mathelier A (2018) Put science first and
-formatting later. EMBO Rep 19 Available at:
-http://dx.doi.org/10.15252/embr.201845731
-
-Larivière V, Sugimoto CR (2018) Do authors comply when funders enforce
-open access to research? Nature 562:483 Available at:
-https://www.nature.com/articles/d41586-018-07101-w
-
-Nosek BA, Ebersole CR, DeHaven AC, Mellor DT (2018) The
-preregistration revolution. Proc Natl Acad Sci U S A 115:2600–2606
-Available at: http://dx.doi.org/10.1073/pnas.1708274114
-
-Schiltz M (2018) Science without publication paywalls: cOAlition S for
-the realisation of full and immediate Open Access. PLoS Biol
-16:e3000031 Available at:
-http://dx.doi.org/10.1371/journal.pbio.3000031
-
-
-# notes (not for paper)
+<!--
+notes (not for paper)
 
 removed text about overlay journal...
 BioRxiv can even be used as the substrate for an overlay journal
@@ -322,3 +266,5 @@ Nice figure for preprint usage at: http://www.prepubmed.org/monthly_stats/
 Anon (2017) Are preprints the future of biology? A survival guide for
 scientists. Science | AAAS Available at:
 https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
+
+ -->
