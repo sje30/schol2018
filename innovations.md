@@ -145,10 +145,14 @@ reproducible research, the reproducibility of the final outputs were
 generally broken upon submission to journals. Researchers hqve
 released reproducible versions of their work in parallel to the
 journal articles [Gatto:2014 with reproducible code
-[here](http://www.bioconductor.org/packages/release/data/experiment/vignettes/RforProteomics/inst/doc/RforProteomics.html), Breckels:2018 with reproducible code [here](https://github.com/lmsimp/bioc-pRoloc-hyperLOPIT-workflow), Stephen to add an example of his work].
-Recently, some journals have moved closer to publishing reproducible
-manuscripts. Examples (need to get the links) are eLife,
-F1000Research, ... (other examples?).
+[here](http://www.bioconductor.org/packages/release/data/experiment/vignettes/RforProteomics/inst/doc/RforProteomics.html),
+Breckels:2018 with reproducible code
+[here](https://github.com/lmsimp/bioc-pRoloc-hyperLOPIT-workflow),
+Stephen to add an example using a container here].  Recently, some journals have
+moved closer to publishing reproducible manuscripts, by working
+towards a [reproducible documement
+stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article),
+or supporting [reproducible figures](https://f1000research.com/gateways/bioconductor).
 
 ## Other recent innovations of note
 
