@@ -110,20 +110,17 @@ prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
 
 **Reproducible manuscripts** are documents that contain the main text
 as well as the code to generate tables, figures and results have been
-around for decades, and have been widely used in many research
-fields. However, even though researchers have been committed to
-reproducible research, the reproducibility of the final outputs were
-generally broken upon submission to journals. Researchers hqve
-released reproducible versions of their work in parallel to the
-journal articles [Gatto:2014 with reproducible code
-[here](http://www.bioconductor.org/packages/release/data/experiment/vignettes/RforProteomics/inst/doc/RforProteomics.html),
-Breckels:2018 with reproducible code
-[here](https://github.com/lmsimp/bioc-pRoloc-hyperLOPIT-workflow),
-Stephen to add an example using a container here].  Recently, some journals have
-moved closer to publishing reproducible manuscripts, by working
-towards a [reproducible documement
+around for decades, and have been widely used in many research fields
+[@Buckheit1995-yu]. However, even though researchers have been
+committed to reproducible research, the reproducibility of the final
+outputs were generally broken upon submission to journals. Researchers
+have released reproducible versions of their work in parallel to the
+journal articles [@Gatto2014-wc; @Breckels2018-ys].  Recently, some
+journals have moved closer to publishing reproducible manuscripts, by
+working towards a [reproducible documement
 stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article),
-or supporting [reproducible figures](https://f1000research.com/gateways/bioconductor).
+or supporting [reproducible
+figures](https://f1000research.com/gateways/bioconductor).
 
 ## Other recent innovations of note
 
@@ -214,34 +211,6 @@ Perhaps need a list of key abbreviations/terms that are jargon
 (APCs/hybrid/diamond OA).
 
 # References
-
-Baker M (2016) 1,500 scientists lift the lid on
-reproducibility. Nature 533:452–454 Available at:
-http://dx.doi.org/10.1038/533452a
-
-Breckels LM, Mulvey CM, Lilley KS and Gatto L. A Bioconductor workflow
-for processing and analysing spatial proteomics data [version 2;
-referees: 2 approved]. F1000Research 2018, 5:2926 (doi:
-[10.12688/f1000research.10411.2](http://dx.doi.org/10.12688/f1000research.10411.2))
-
-Brenner S (1995) Loose end. Curr Biol 5:568 Available at:
-http://www.sciencedirect.com/science/article/pii/S096098229500109X
-
-Budd J (2017) Publishing: Reformatting wastes public funds. Nature
-543:40 Available at: http://dx.doi.org/10.1038/543040e
-
-Else H (2018) Radical open-access plan could spell end to journal
-subscriptions. Nature 561:17–18 Available at:
-http://dx.doi.org/10.1038/d41586-018-06178-7
-
-
-Gatto L, Christoforou A. Using R and Bioconductor for proteomics data
-analysis. Biochim Biophys Acta. 2014 Jan;1844(1 Pt A):42-51. doi:
-http://dx.doi.org:10.1016/j.bbapap.2013.04.032.
-
-
-Ginsparg P (2017) Preprint Déjà Vu: an FAQ. arXiv [csDL] Available at:
-https://arxiv.org/abs/1706.04188
 
 <!--
 notes (not for paper)
