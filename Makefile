@@ -9,7 +9,6 @@ innovations.pdf: innovations.md schol.bib pandoc-header.tex
 
 outputs: innovations.docx innovations.pdf
 	git commit innovations.docx innovations.pdf -m "rebuild outputs"
-	git push
 
 
 clean:
