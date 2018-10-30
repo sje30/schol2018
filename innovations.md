@@ -42,7 +42,7 @@ effectively halted in the 1960s by journals' refusal to accept
 preprints for submission [@Cobb2017-tv].
 
 
-BiorXiv, launched in 2013, has overcome these concerns. Researchers in
+BioRxiv, launched in 2013, has overcome these concerns. Researchers in
 diverse areas as ecology, neuroscience and genomics are uploading
 preprints and choosing to share their work ahead of publication.
 There are many reasons for this usage:
@@ -53,28 +53,26 @@ There are many reasons for this usage:
   read the work months (or years) before the work eventually
   appears in print.
 * Journal editors are browsing the bioRxiv and soliciting that
-  relevant papers be submitted to their journal.  (How widespread this
-  is, I'm not sure.)
+  relevant papers be submitted to their journal.
 * BioRxiv preprints can be transferred rapidly to journal submission
-  systems rather than going through (often lengthy) direct submission
+  systems rather than going through (an often lengthy) direct submission
   to the journal.
 * Several funding agencies, including NIH and UKRI, allows
-  preprints to be listed and cited in grant applications.
+  preprints to be listed on CVs and cited in grant applications.
 
-
-Several other preprint servers have been created in recent year, in
-particular [PeerJ Preprints](https://peerj.com/preprints/), [OSF
-Preprint servers](https://osf.io/preprints/), and
+Several other preprint servers are available , in particular [PeerJ
+Preprints](https://peerj.com/preprints/), [OSF Preprint
+servers](https://osf.io/preprints/), and
 [preprints.org](https://preprints.org), although to date BioRxiv is
 the dominant repository.  Unlike a few years ago, most journals in the
-life sciences no longer see prior appearance in a repository as a
+life sciences no longer see prior appearance in a preprint repository as a
 block to formal publication.
 
 ## Overcoming the reproducibility crisis
 
 According to recent surveys, life scientists across many domains
 believe there is a "reproducibility crisis" in science: i.e. many key
-key findings in publications are either not independently verified, or
+findings in publications are either not independently verified, or
 fail verification when it is done [@Baker2016-wr].  The traditional publishing
 system must take some responsibility for these low-levels of
 reproducibility.  However, here we list three encouraging developments
@@ -92,7 +90,9 @@ describes the results of the study using the pre-registered methods.
 (Additional findings can be reported, but are clearly marked as such.)
 Preregistration is most prevalent today in psychology; The Center for
 Open Science Preregistration Challenge https://cos.io/prereg/ is
-helping to popularise this notion more broadly.
+helping to popularise this notion more broadly.  Initial analysis of
+results from preregistered papers suggests, perhaps reassuringly, a
+marked increase in null results reported [@Warren2018-cj].
 
 **Stronger data sharing policies and community expectations.** Both
 funders and journals are now making stronger statements about what
@@ -115,8 +115,7 @@ outputs were generally broken upon submission to journals. Researchers
 have released reproducible versions of their work in parallel to the
 journal articles [@Gatto2014-wc; @Breckels2018-ys].  Recently, some
 journals have moved closer to publishing reproducible manuscripts, by
-working towards a [reproducible documement
-stack](https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article),
+working towards a reproducible document stack [@web:elifestack] 
 or supporting [reproducible
 figures](https://f1000research.com/gateways/bioconductor).
 
@@ -125,10 +124,9 @@ figures](https://f1000research.com/gateways/bioconductor).
 
 **ORCiD** <https://orcid.org> provides a persistent, unique digital identifier for
 researchers.  Many journals now require that at least one author
-verifies their identity as author using ORCiD
-[https://orcid.org/content/requiring-orcid-publication-workflows-open-letter].
+verifies their identity as author using ORCiD [@web:orcidletter].
 
-**DORA** https://sfdora.org/ is a declaration for individuals and
+**DORA** [@web:dora] is a declaration for individuals and
 institutions to commit to evaluating research based on its content
 rather than metrics.  Most UK funders have signed, although only a few
 universities have signed. See also the Leiden Manifesto for Research
@@ -165,29 +163,30 @@ Key funders in the UK have had policies in place supporting open
 access for many years.  In particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
 for non-compliance.  Compliance rates (around 90%) are highest for the
-WT, as of October 2017 [@Lariviere2018-nc], with compliance
-for other main funders varying at 70-90%.  Where work has been
-supported by relevant funding agencies, our experience to date is that
-funds have always been available to support APCs.  However, one of us
-[SJE] has experienced difficulties in finding APCs for papers
-summarising work supported by internal, rather than external, funds.
+WT, as of October 2017 [@Lariviere2018-nc], with compliance for other
+main funders varying at 70-90%.  Where work has been supported by
+relevant funding agencies, our experience to date is that funds have
+always been available to support Article Processing Charges (APCs).
+However, one of us [SJE] has experienced difficulties in finding APCs
+for papers summarising work supported by internal, rather than
+external, funds.
 
 
 One perhaps unintended consequence of these policies has been that
 most traditional journals have established a "hybrid" model of
-publishing, with APCs that on average exceed those in pure OA journals
-[@Pinfield2017-qs].  This hybrid model of publishing has shown
-little signs to date of disappearing, as e.g. funds from Wellcome
-Trust have supported high APCs. The success of OA publishing however
-has meant that government-provided funds can often no longer cover all
-APCs and UK institutions are beginning to restrict the choice of
-journals for which APCs will be paid.  However, The OA publishing
-world is due to change dramatically in 2020 with the recent
+publishing, with APCs that on average exceed those in pure Open Access
+(OA) journals [@Pinfield2017-qs].  This hybrid model of publishing has
+shown little signs to date of disappearing, as e.g. funds from
+Wellcome Trust have supported high APCs. The success of OA publishing
+however has meant that government-provided funds can often no longer
+cover all APCs and UK institutions are beginning to restrict the
+choice of journals for which APCs will be paid.  However, The OA
+publishing world is due to change dramatically in 2020 with the recent
 announcement of "plan S" [@Schiltz2018-jn], a European initiative to
 enforce OA, cap APCs and prohibit publishing in hybrid journals.
 Whilst we support the notions underlying plan S, its success will
-depend on further implementation details (e.g. the nature of the APC cap, recognition
-of green and diamond OA).
+depend on further implementation details (e.g. the nature of the APC
+cap, recognition of green and diamond OA).
 
 
 
@@ -202,11 +201,21 @@ researchers that they currently face in the "publish or perish"
 culture.  We encourage the adoption of the above open practices to
 help create a more ethical research environment.
 
-# Glossary/abbreviations
+
+# Conflicts of interest
+
+All authors are members of the Bullied into Bad Science campaign.  SJE
+is on the editorial board of *Scientific Data*.
+
+# Acknowledgements
+
+SJE thanks Magdalene College Cambridge for financial support.
+
+<!-- # Glossary/abbreviations -->
 
 
-Perhaps need a list of key abbreviations/terms that are jargon
-(APCs/hybrid/diamond OA).
+<!-- Perhaps need a list of key abbreviations/terms that are jargon -->
+<!-- (APCs/hybrid/diamond OA). -->
 
 # References
 
@@ -234,4 +243,9 @@ Anon (2017) Are preprints the future of biology? A survival guide for
 scientists. Science | AAAS Available at:
 https://www.sciencemag.org/news/2017/09/are-preprints-future-biology-survival-guide-scientists
 
+ -->
+
+<!--  LocalWords:  PDFs ArXiv preprint preprints BioRxiv Mounce Gatto
+ -->
+<!--  LocalWords:  Currie reproducibility funders funder APCs OA SJE
  -->
