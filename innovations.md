@@ -3,25 +3,26 @@
 Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
 Ross Mounce [(orcid)](https://orcid.org/0000-0002-3520-2046),
 Laurent Gatto [(orcid)](https://orcid.org/0000-0002-1520-2268),
-Adrian M Currie [(orcid)](https://orcid.org/0000-0003-2638-202X).
+Adrian M Currie [(orcid)](https://orcid.org/0000-0003-2638-202X),
+Yvonne Nobis [(orcid)](https://orcid.org/0000-0001-9147-7418).
 
 # Introduction
 
-
 In some ways, scholarly publishing has not changed much in the last
-ten years. Publishing in prestigious top-tier journals is still
+ten years.  Publishing in prestigious top-tier journals is still
 perceived as critical for career progression (especially gaining
-promotion and grants). Likewise, journal metrics continue to dominate
+promotion and grants).  Likewise, journal metrics continue to dominate
 in the evaluation of a paper’s research, rather than the paper’s
-contents [@Brenner1995-kk]. Against the backdrop of highly competitive job and
-grant markets, factors such as these encourage narrow research agendas
-and tie researchers (particularly in early career) to placing work in
-exploitative publishers who draw significant funds from academic
-work. Further, standard publishing criteria, especially for instance on
-publishing statistically significant, positive results, creates biases
-across published studies. However, there are several reasons for
-optimism that the nature of scientific publishing will improve. Here
-we outline some recent developments in the life sciences.
+contents [@Brenner1995-kk; @Simons2008-fr]. Against the backdrop of
+highly competitive job and grant markets, factors such as these
+encourage narrow research agendas and tie researchers (particularly in
+early career) to placing work in exploitative publishers who draw
+significant funds from academic work. Further, standard publishing
+criteria, especially for instance on publishing statistically
+significant, positive results, creates biases across published
+studies. However, there are several reasons for optimism that the
+nature of scientific publishing will improve. Here we outline some
+recent developments in the life sciences.
 
 
 
@@ -37,10 +38,9 @@ quantitative biology, it was initially assumed that biologists would
 not adopt a preprint culture: publishing a preprint might prevent
 subsequent publication in a top-tier journal, or leading to scooping
 by another group.  There is some historic
-justification of these concerns, as an NIH experiment in preprints was
+justification of these concerns: an NIH experiment in preprints was
 effectively halted in the 1960s by journals' refusal to accept
 preprints for submission [@Cobb2017-tv].
-
 
 BioRxiv, launched in 2013, has overcome these concerns. Researchers in
 diverse areas as ecology, neuroscience and genomics are uploading
@@ -52,15 +52,16 @@ There are many reasons for this usage:
 * Sharing work at the time of submission means that the community can
   read the work months (or years) before the work eventually
   appears in print.
-* Journal editors are browsing the bioRxiv and soliciting that
-  relevant papers be submitted to their journal.
+* Journal editors browse bioRxiv and suggest relevant papers be
+  submitted to their journal.
+  
 * BioRxiv preprints can be transferred rapidly to journal submission
   systems rather than going through (an often lengthy) direct submission
   to the journal.
 * Several funding agencies, including NIH and UKRI, allows
   preprints to be listed on CVs and cited in grant applications.
 
-Several other preprint servers are available , in particular [PeerJ
+Several other preprint servers are available, in particular [PeerJ
 Preprints](https://peerj.com/preprints/), [OSF Preprint
 servers](https://osf.io/preprints/), and
 [preprints.org](https://preprints.org), although to date BioRxiv is
@@ -74,25 +75,24 @@ According to recent surveys, life scientists across many domains
 believe there is a "reproducibility crisis" in science: i.e. many key
 findings in publications are either not independently verified, or
 fail verification when it is done [@Baker2016-wr].  The traditional publishing
-system must take some responsibility for these low-levels of
-reproducibility.  However, here we list three encouraging developments
+system must take some responsibility for these low levels of
+reproducibility.  However, here we list four encouraging developments
 that should promote reproducibility.
 
-**Preregistration papers.** An encouraging response to this crisis has
-been the adoption of preregistration papers [@Nosek2018-my].  These
-papers typically describe the introduction and methods sections of a
-paper, and are peer-reviewed *before* the study is actually performed.
-This allows reviewers to improve the study design and commits
-researchers to hypotheses that they wish to study along with their
-statistical analysis.  Once the pre-registration study is approved, it
-is then published.  After the research is completed, another paper
-describes the results of the study using the pre-registered methods.
-(Additional findings can be reported, but are clearly marked as such.)
-Preregistration is most prevalent today in psychology; The Center for
-Open Science Preregistration Challenge https://cos.io/prereg/ is
-helping to popularise this notion more broadly.  Initial analysis of
-results from preregistered papers suggests, perhaps reassuringly, a
-marked increase in null results reported [@Warren2018-cj].
+**Preregistration papers** typically describe the introduction and
+methods sections of a study, and are peer-reviewed *before* the study
+is actually performed [@Nosek2018-my].  This allows reviewers to
+improve the study design and commits researchers to hypotheses that
+they wish to study along with their statistical analysis.  Once the
+pre-registration study is approved, it is then published.  After the
+research is completed, another paper describes the results of the
+study using the pre-registered methods.  (Additional findings can be
+reported, but are clearly marked as such.)  Preregistration is most
+prevalent today in psychology; The Center for Open Science
+Preregistration Challenge <https://cos.io/prereg/> is helping to
+popularise this notion more broadly.  Initial analysis of results from
+preregistered papers indicates, perhaps reassuringly, a marked increase
+in null results reported [@Warren2018-cj].
 
 **Stronger data sharing policies and community expectations.** Both
 funders and journals are now making stronger statements about what
@@ -116,8 +116,21 @@ have released reproducible versions of their work in parallel to the
 journal articles [@Gatto2014-wc; @Breckels2018-ys].  Recently, some
 journals have moved closer to publishing reproducible manuscripts, by
 working towards a reproducible document stack [@web:elifestack] 
-or supporting [reproducible
-figures](https://f1000research.com/gateways/bioconductor).
+or supporting reproducible figures [@web:biochannel].
+
+**Replicability studies** Given the (often intense) competition to be
+first to publish in some areas of biology, being "scooped" on
+publishing a particular result can be doubly damaging.  Not only does
+someone else publish the result first, your manuscript is often no
+longer regarded as novel, and thus not worthy of publication by top-tier
+journals.  However, given that science relies on the gradual
+accumulation of evidence over a large body of papers, such replication
+studies are valuable.  In January 2018, *PLOS Biology* announced that
+they would consider for publication those papers that "confirm or
+extend a recently published study"
+[@PLOS_Biology_Staff_Editors2018-jf].  In a similar vein,
+replicability studies can provide clear evidence to evaluate
+controversial findings [@Aizawa2016-lu].
 
 ## Other recent innovations of note
 
@@ -130,14 +143,14 @@ verifies their identity as author using ORCiD [@web:orcidletter].
 institutions to commit to evaluating research based on its content
 rather than metrics.  Most UK funders have signed, although only a few
 universities have signed. See also the Leiden Manifesto for Research
-Metrics (http://www.leidenmanifesto.org/).
+Metrics (<http://www.leidenmanifesto.org/>).
 
-**Published Peer Review Reports**.  Many journals now already or have
+**Published peer review reports**.  Many journals now already or have
 pledged to provide greater transparency about the quality of peer
 review they provide by publishing the content of the reviewer reports
 alongside published articles. Notably two large open access publishers
 PLOS and MDPI are amongst those that are pledging to provide greater
-transparency from 2019 http://asapbio.org/letter.  PubPeer
+transparency from 2019 [@asap_letter].  PubPeer
 <https://pubpeer.com/> allows reviewers to 'claim' metadata records on
 their profile for peer reviewing and editorial work they have done.
 
@@ -155,21 +168,21 @@ As editors at top-tier journals 'desk reject' most submissions before
 peer review, this leads to many wasted hours [@Budd2017-gd].  Gradually
 life science journals are now dropping these formatting requirements
 for initial submissions, instead allowing "format free" submissions
-[@Khan2018-zm; see  also https://asntech.github.io/format-free-journals/].
+[@Khan2018-zm].
 
 ## Funder mandates and compliance
 
 Key funders in the UK have had policies in place supporting open
 access for many years.  In particular, the Wellcome Trust has mandated
 Open Access for publications funded by them since 2006, with sanctions
-for non-compliance.  Compliance rates (around 90%) are highest for the
-WT, as of October 2017 [@Lariviere2018-nc], with compliance for other
-main funders varying at 70-90%.  Where work has been supported by
-relevant funding agencies, our experience to date is that funds have
-always been available to support Article Processing Charges (APCs).
-However, one of us [SJE] has experienced difficulties in finding APCs
-for papers summarising work supported by internal, rather than
-external, funds.
+for non-compliance.  Compliance rates (around 90%) are highest for
+Wellcome, as of October 2017 [@Lariviere2018-nc], with compliance for
+other main funders varying at 70-90%.  Where work has been supported
+by relevant funding agencies, our experience to date is that funds
+have always been available to support Article Processing Charges
+(APCs).  However, one of us [SJE] has experienced difficulties in
+finding APCs for papers summarising work supported by internal, rather
+than external, funds.
 
 
 One perhaps unintended consequence of these policies has been that
@@ -180,7 +193,7 @@ shown little signs to date of disappearing, as e.g. funds from
 Wellcome Trust have supported high APCs. The success of OA publishing
 however has meant that government-provided funds can often no longer
 cover all APCs and UK institutions are beginning to restrict the
-choice of journals for which APCs will be paid.  However, The OA
+choice of journals for which APCs will be paid.  However, the OA
 publishing world is due to change dramatically in 2020 with the recent
 announcement of "plan S" [@Schiltz2018-jn], a European initiative to
 enforce OA, cap APCs and prohibit publishing in hybrid journals.
@@ -193,7 +206,7 @@ cap, recognition of green and diamond OA).
 # Concluding remarks
 
 Current publication practices can often lead early career researchers
-to be ‘Bullied into Bad Science’ (http://bulliedintobadscience.org/).
+to be ‘Bullied into Bad Science’ (<http://bulliedintobadscience.org/>).
 We have outlined several recent developments that we hope present
 alternatives to the traditional hierarchy of scholarly publishing.
 These developments should help reduce the pressure on early career
@@ -204,8 +217,14 @@ help create a more ethical research environment.
 
 # Conflicts of interest
 
-All authors are members of the Bullied into Bad Science campaign.  SJE
-is on the editorial board of *Scientific Data*.
+Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
+Ross Mounce [(orcid)](https://orcid.org/0000-0002-3520-2046),
+Laurent Gatto [(orcid)](https://orcid.org/0000-0002-1520-2268),
+Adrian M Currie [(orcid)](https://orcid.org/0000-0003-2638-202X),
+Yvonne Nobis [(orcid)](https://orcid.org/0000-0001-9147-7418).
+
+SJE, RM, LG and AMC are members of the Bullied into Bad Science
+campaign.  SJE is on the editorial board of *Scientific Data*.
 
 # Acknowledgements
 
