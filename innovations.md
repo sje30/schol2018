@@ -107,16 +107,15 @@ papers" (a paper  that simply describes the data) are becoming more
 prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
 
 **Reproducible manuscripts** are documents that contain the main text
-as well as the code to generate tables, figures and results have been
-around for decades, and have been widely used in many research fields
+as well as the code to generate tables, figures and results
 [@Buckheit1995-yu]. However, even though researchers have been
 committed to reproducible research, the reproducibility of the final
 outputs were generally broken upon submission to journals. Researchers
 have released reproducible versions of their work in parallel to the
 journal articles [@Gatto2014-wc; @Breckels2018-ys].  Recently, some
 journals have moved closer to publishing reproducible manuscripts, by
-working towards a reproducible document stack [@web:elifestack] 
-or supporting reproducible figures [@web:biochannel].
+working towards a reproducible document stack [@web:elifestack] or
+supporting reproducible figures [@web:biochannel].
 
 **Replicability studies** Given the (often intense) competition to be
 first to publish in some areas of biology, being "scooped" on
@@ -135,9 +134,10 @@ controversial findings [@Aizawa2016-lu].
 ## Other recent innovations of note
 
 
-**ORCiD** <https://orcid.org> provides a persistent, unique digital identifier for
-researchers.  Many journals now require that at least one author
-verifies their identity as author using ORCiD [@web:orcidletter].
+**ORCiD** provides a persistent, unique digital
+identifier for researchers.  Many journals now require that at least
+one author verifies their identity as author using ORCiD
+[@web:orcidletter].
 
 **DORA** [@web:dora] is a declaration for individuals and
 institutions to commit to evaluating research based on its content
@@ -147,11 +147,11 @@ Metrics (<http://www.leidenmanifesto.org/>).
 
 **Published peer review reports**.  Many journals now already or have
 pledged to provide greater transparency about the quality of peer
-review they provide by publishing the content of the reviewer reports
+review they provide by publishing reviewer reports
 alongside published articles. Notably two large open access publishers
 PLOS and MDPI are amongst those that are pledging to provide greater
 transparency from 2019 [@asap_letter].  PubPeer
-<https://pubpeer.com/> allows reviewers to 'claim' metadata records on
+(<https://pubpeer.com/>) allows reviewers to 'claim' metadata records on
 their profile for peer reviewing and editorial work they have done.
 
 **Post publication peer review**.  A journal may immediately publish a
@@ -185,12 +185,11 @@ finding APCs for papers summarising work supported by internal, rather
 than external, funds.
 
 
-One perhaps unintended consequence of these policies has been that
-most traditional journals have established a "hybrid" model of
-publishing, with APCs that on average exceed those in pure Open Access
-(OA) journals [@Pinfield2017-qs].  This hybrid model of publishing has
-shown little signs to date of disappearing, as e.g. funds from
-Wellcome Trust have supported high APCs. The success of OA publishing
+One unintended consequence of these policies has been that most
+traditional journals have established a "hybrid" model of publishing,
+with APCs that on average exceed those in pure Open Access (OA)
+journals [@Pinfield2017-qs].  This hybrid model of publishing has
+so far shown little signs of disappearing. The success of OA publishing
 however has meant that government-provided funds can often no longer
 cover all APCs and UK institutions are beginning to restrict the
 choice of journals for which APCs will be paid.  However, the OA
