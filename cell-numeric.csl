@@ -51,6 +51,14 @@
       </if>
     </choose>
   </macro>
+  <macro name="doi">
+    <choose>
+      <if variable="DOI">
+        <text value="DOI:" suffix=" "/>
+        <text variable="DOI"/>
+      </if>
+    </choose>
+  </macro>
   <macro name="title">
     <text variable="title"/>
   </macro>
@@ -128,6 +136,8 @@
         </else>
       </choose>
       <text prefix=" " macro="access"/>
+      <text prefix=" " macro="doi"/>
     </layout>
   </bibliography>
 </style>
+
