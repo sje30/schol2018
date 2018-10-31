@@ -188,11 +188,16 @@ than external, funds.
 One unintended consequence of these policies has been that most
 traditional journals have established a "hybrid" model of publishing,
 with APCs that on average exceed those in pure Open Access (OA)
-journals [@Pinfield2017-qs].  This hybrid model of publishing has
-so far shown little signs of disappearing. The success of OA publishing
+journals [@Pinfield2017-qs].  This hybrid model of publishing has so
+far shown little signs of disappearing.  The success of OA publishing
 however has meant that government-provided funds can often no longer
 cover all APCs and UK institutions are beginning to restrict the
-choice of journals for which APCs will be paid.  However, the OA
+choice of journals for which APCs will be paid-to in order to best
+optimise the allocation of limited financial resources. We understand
+and are supportive of institutions that do not allow APCs to be paid
+for hybrid-OA, or for particularly expensively priced OA journals -
+some publishing options are simply exploitative of the system and
+authors may need protection from them.  However, the OA
 publishing world is due to change dramatically in 2020 with the recent
 announcement of "plan S" [@Schiltz2018-jn], a European initiative to
 enforce OA, cap APCs and prohibit publishing in hybrid journals.
