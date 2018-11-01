@@ -29,21 +29,20 @@ recent developments in the life sciences.
 ## Preprints
 
 Since 1991 ArXiv [@Ginsparg2017] has become a standard tool for
-physicists to rapidly disseminate their research findings.  On the
-surface, it does not provide much beyond a collection of PDFs grouped
-by topic.  In certain fields, being the first to publish on the ArXiv
-is considered to be the key step, although subsequent journal
-publication is still the norm.  Although ArXiv hosts papers in
-quantitative biology, it was initially assumed that biologists would
-not adopt a preprint culture: publishing a preprint might prevent
-subsequent publication in a top-tier journal, or leading to scooping
-by another group.  There is some historic
-justification of these concerns: an NIH experiment in preprints was
-effectively halted in the 1960s by journals' refusal to accept
-preprints for submission [@Cobb2017-tv].
+physicists to rapidly disseminate their research findings.  Although
+on the surface ArXiv does not provide much more than a collection of
+PDFs grouped via topic, publishing there is now considered key for
+establishing priority in certain fields (subsequent journal
+publication is still the norm).  It was initially assumed that
+biologists would not adopt a preprint culture: publishing a preprint
+might prevent subsequent publication in a top-tier journal, or leading
+to scooping by another group.  There is some historic justification of
+these concerns: an NIH experiment in preprints was effectively halted
+in the 1960s by journals' refusal to accept preprints for submission
+[@Cobb2017-tv].
 
 BioRxiv, launched in 2013, has overcome these concerns. Researchers in
-diverse areas as ecology, neuroscience and genomics are uploading
+such diverse areas as ecology, neuroscience and genomics are uploading
 preprints and choosing to share their work ahead of publication.
 There are many reasons for this usage:
 
@@ -74,10 +73,10 @@ block to formal publication.
 According to recent surveys, life scientists across many domains
 believe there is a "reproducibility crisis" in science: i.e. many key
 findings in publications are either not independently verified, or
-fail verification when it is done [@Baker2016-wr].  The traditional publishing
-system must take some responsibility for these low levels of
-reproducibility.  However, here we list four encouraging developments
-that should promote reproducibility.
+fail verification when it is attempted [@Baker2016-wr].  The
+traditional publishing system must take some responsibility for these
+low levels of reproducibility.  However, here we list four encouraging
+developments that should promote reproducibility.
 
 **Preregistration papers** typically describe the introduction and
 methods sections of a study, and are peer-reviewed *before* the study
@@ -98,13 +97,13 @@ in null results reported [@Warren2018-cj].
 funders and journals are now making stronger statements about what
 research materials (data, computer programs, reagents) should be
 shared upon publication of the corresponding articles.  Although these
-policies should increase data availability and reuse, the current
-compliance rates are quite low [@Federer2018-qg].  Given that it
-can take considerable time and effort (for both researchers and
-journals) to ensure data is appropriately shared, these low-uptake
-rates are perhaps expected.  To reward authors for this work, "data
-papers" (a paper  that simply describes the data) are becoming more
-prominent, e.g. in journals like *Scientific Data* and *Gigascience*.
+policies should increase data availability and reuse, compliance rates
+are fairly low [@Federer2018-qg].  Given that it can take considerable
+time and effort (for both researchers and journals) to ensure data is
+appropriately shared, these low-uptake rates are perhaps expected.  To
+reward authors for this work, "data papers" (a paper that simply
+describes the data) are becoming more prominent, e.g. in journals like
+*Scientific Data* and *Gigascience*.
 
 **Reproducible manuscripts** are documents that contain the main text
 as well as the code to generate tables, figures and results
@@ -134,10 +133,10 @@ controversial findings [@Aizawa2016-lu].
 ## Other recent innovations of note
 
 
-**ORCiD** provides a persistent, unique digital
-identifier for researchers.  Many journals now require that at least
-one author verifies their identity as author using ORCiD
-[@web:orcidletter].
+**ORCiD** provides a persistent, unique digital identifier for
+researchers which can help in linking scholarly outputs to an
+individual.  Many journals now require that at least one author
+verifies their identity as author using ORCiD [@web:orcidletter].
 
 **DORA** [@web:dora] is a declaration for individuals and
 institutions to commit to evaluating research based on its content
@@ -163,11 +162,11 @@ several institution- and funder-specific journals, such as *Wellcome
 Open Research* and *Gates Open Research*.
 
 **Format free submissions**.  Journals have traditionally imposed
-strict formatting requirements for manuscripts before peer review.
-As editors at top-tier journals 'desk reject' most submissions before
-peer review, this leads to many wasted hours [@Budd2017-gd].  Gradually
-life science journals are now dropping these formatting requirements
-for initial submissions, instead allowing "format free" submissions
+strict formatting requirements for manuscripts.  As editors at
+top-tier journals 'desk reject' most submissions before peer review,
+this leads to many wasted hours [@Budd2017-gd].  Gradually life
+science journals are now dropping these formatting requirements for
+initial submissions, instead allowing "format free" submissions
 [@Khan2018-zm].
 
 ## Funder mandates and compliance
