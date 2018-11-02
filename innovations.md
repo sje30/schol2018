@@ -6,6 +6,9 @@ Laurent Gatto [(orcid)](https://orcid.org/0000-0002-1520-2268),
 Adrian M Currie [(orcid)](https://orcid.org/0000-0003-2638-202X),
 Yvonne Nobis [(orcid)](https://orcid.org/0000-0001-9147-7418).
 
+
+<!-- now in review; check out github issues if revisions allowed -->
+
 # Introduction
 
 In some ways, scholarly publishing has not changed much in the last
