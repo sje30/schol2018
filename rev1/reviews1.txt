@@ -1,0 +1,69 @@
+From: editorial@portlandpress.com
+To: sje30@cam.ac.uk
+Subject: ETLS-2018-0172C Decision Letter
+Maildir: /INBOX
+Path:
+ /data/mea/sje30/Maildir/INBOX/cur/1542877550.7212_28.mea,U=15460:2,PRS
+Date: Thu 22 Nov 2018 08:05:20 GMT
+Attachments: [1]1.msgpart(4.8K), [2]2.msgpart(7.7K)
+
+Manuscript number: ETLS-2018-0172C 
+Manuscript title: Recent developments in scholarly publishing: a view from the life sciences 
+Recommendation: Major revision invited 
+ 
+Dear Dr Eglen, 
+ 
+Thank you for submitting your paper to Emerging Topics in Life Sciences for consideration. 
+ 
+Your paper has now been assessed by two independent reviewers and I am pleased to say that the reviewers found your paper to be suitable for publication in Emerging Topics in Life Sciences; however, they have suggested some major revisions that are required before your paper can be considered for publication. 
+ 
+Please resubmit your revisions as soon as possible, unfortunately due to time constraints the longest we can offer is to Wednesday 28th November. 
+ 
+It is important to ensure that the revised paper satisfies all of the reviewers' main concerns, to ensure it can be assessed for acceptance as quickly as possible. 
+ 
+Please submit your revisions using the link below, along with a description of the changes, a response to the reviewers and a tracked version of your revised paper: 
+https://emergtoplifesci.msubmit.net/cgi-bin/main.plex?el=A1KU7Frz4A2eOm5I3A9ftdytnwiVeMUgAIyxnUBDgAZ 
+ 
+We look forward to receiving your revised paper, and thank you for choosing Emerging Topics in Life Sciences to publish your work. 
+ 
+Yours sincerely 
+ 
+Professor Sheila Graham 
+Guest Editor, Perspectives in publishing and scholarly communication: how these can help the life science researcher? 
+ 
+ 
+ 
+Reviewer #1 (Comments for Authors (Required)): 
+ 
+Recent developments 
+This article covers several important developments and describes them clearly. However you do not present a narrative link between the items that explains why you chose these items and not others. I was left wondering what the point of this article was - why you had chosen the items you did? It would make the article stronger (and more interesting) if you explained why and how the items you present help to improve science reporting (and research itself). 
+ 
+Underpinning this problem with the article focus, the title is also too generic and does not clearly explain the contents of the article or the rationale of the article. 
+ 
+Specific items/comments/questions: 
+ 
+1. The introduction (and the later section on Open Access) feels out of scope of the article - the criticism of greedy publishers at the start and the discussion of open access with the throwaway statement that one of the authors has experienced problems in obtaining APC funds feels polemical rather than a dispassionate discussion which is presented elsewhere in the article. (If this introduction is meant as an abstract it needs to better describe the rationale of the article and what you discuss - with you key conclusions - much as a regular abstract for a research article.) 
+ 
+2. You say that traditional publishing must take responsibility for low levels of reproducibility - why? 
+ 
+3. Preregistration papers - it is important to state that acceptance of the preregistration article does not guarantee acceptance of the subsequent results-based article. 
+ 
+4. Reproducible manuscripts - you may also want to reference Cloud Ocean which allows for sharing and embedding (I think) code within articles - it recently announced a pilot with Nature - see https://medium.com/codeocean/nature-journals-pilot-with-code-ocean-a-developer-advocate-s-perspective-d1f9f35f896e 
+ 
+5. Other recent innovations - this feels like a checklist - it would add value to explain why you have included ORCID - what does it add to ensuring reproducible science? The other items would benefit from a little more explanation of what they contribute (rather than simply what they are) 
+ 
+6. You have not mentioned reporting guidelines and journal policies that advocate the use of these - e.g. the Equator initiative which aims to support authors, editors, peer reviewers on better reporting of science - https://www.equator-network.org - surely this would be included under initiatives to support reproducible science? 
+ 
+7. And initiatives to publish negative results? (although there is nothing formal so far as I am aware - are the authors aware of anything about this topic?) 
+ 
+Reviewer #2 (Comments for Authors (Required)): 
+ 
+p3, last line of 'Funder mandates...'. The authors cite 'green and diamond OA'. Don't they mean 'green and gold OA'? In any event, it would be helpful here to provide an explanatory sentence about these different forms of OA. 
+ 
+ 
+Editorial Office comments: 
+1. During submission you will be asked about open access for this paper, please choose yes and that you are willing to pay the APC - we will provide you with a code which will give you a full waiver upon acceptance. 
+ 
+
+
+Portland Press is the wholly-owned trading subsidiary of the Biochemical Society (registered charity no 253894).
