@@ -46,7 +46,7 @@ Specific items/comments/questions:
 
 The introduction was very much meant to be "passionate" respecting our
 views on the current state of publishing.  We have however removed the
-sentence later int he erport about difficulties of obtaining APC funds
+sentence later in the manuscript about difficulties of obtaining APC funds
 to improve the flow of that section of the document.
  
 > 2. You say that traditional publishing must take responsibility for
