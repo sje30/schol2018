@@ -1,2 +1,7 @@
 \usepackage[a4paper,margin=3cm]{geometry}
 \usepackage{mathpazo}
+\usepackage{marginnote}
+\newcommand{\points}[1]{% Print points in margin
+	\label{#1}
+	\leavevmode\marginnote{\makebox[\marginparwidth][r]
+		{\normalsize #1}}\ignorespaces}
