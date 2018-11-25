@@ -1,7 +1,7 @@
 Dear editor,
 
 We thank the two reviewers for their comments on our paper.  Our
-response to the editors is below; our revised manuscript is marked up
+response to the reviewers is below; our revised manuscript is edited
 with changes in italics and margin notes where appropriate.
 
 
