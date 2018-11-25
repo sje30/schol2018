@@ -1,5 +1,6 @@
-# Recent developments in scholarly publishing to improve research practices in the life sciences \points{R1b}
+# Recent developments in scholarly publishing to improve research practices in the life sciences
 
+\points{R1b}
 
 Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
 Ross Mounce [(orcid)](https://orcid.org/0000-0002-3520-2046),
@@ -225,13 +226,25 @@ optimise the allocation of limited financial resources. We understand
 and are supportive of institutions that do not allow APCs to be paid
 for hybrid-OA, or for particularly expensively priced OA journals -
 some publishing options are simply exploitative of the system and
-authors may need protection from them.  However, the OA
-publishing world is due to change dramatically in 2020 with the recent
-announcement of "plan S" [@Schiltz2018-jn], a European initiative to
-enforce OA, cap APCs and prohibit publishing in hybrid journals.
-Whilst we support the notions underlying plan S, its success will
-depend on further implementation details (e.g. the nature of the APC
-cap, recognition of green and diamond OA).
+authors may need protection from them.
+
+However, the OA publishing world is due to change dramatically in 2020
+with the recent announcement of "plan S" [@Schiltz2018-jn], a European
+initiative to enforce OA, cap APCs and prohibit publishing in hybrid
+journals.  Whilst we support the notions underlying plan S, its
+success will depend on further implementation details \points{R2.1}
+*that are currently under discussion.  To date, gold OA, where authors
+typically pay often quite large APCs, is seen as the predominant way
+of meeting funders' OA mandates.  However green OA (publishing your
+author-accepted manuscript on a suitable server) is a viable
+alternative to making work freely available.  Finally, a relatively
+new model of diamond OA, where there are no fees either to read or
+publish papers, is being explored.  This approach has been
+successfully used in mathematics, where costs are kept low by hosting
+the published papers on ArXiv.  With the rise of preprint servers in
+the life sciences, we look forward to the emergence of similar
+low-cost overlay journals in the life sciences.*
+
 
 
 
