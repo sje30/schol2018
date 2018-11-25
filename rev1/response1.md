@@ -18,9 +18,10 @@ Stephen Eglen
 > more interesting) if you explained why and how the items you present
 > help to improve science reporting (and research itself).
 
-The first revision was written very much under tight word constraint
-constraints; with thanks to the editor for relaxing these constraints,
-we have now expanded on the points (see margin note R1a).
+The first revision was written very much under tight word limits
+(1000-1500 words); with thanks to the editor for relaxing these
+constraints, we have now expanded on the manuscript (see margin note
+R1a and below).
 
 
 > Underpinning this problem with the article focus, the title is also
@@ -81,13 +82,13 @@ Done (edit R1.5a, R1.5b, R1.5c, R1.5d, R1.5e).
 >    this would be included under initiatives to support reproducible
 >    science? 
 
-TODO.  Science TOP?
+We have now described the reporting guidelines published in 2015 (R1.6).
  
 > 7. And initiatives to publish negative results? (although there is
 >    nothing formal so far as I am aware - are the authors aware of
 >    anything about this topic?) 
 
-This was effectively inlucded in our first revision where we described
+This was effectively included in our first revision where we described
 an increase in null results reported (ref 7) from pre-registered
 studies.
 
@@ -99,3 +100,9 @@ studies.
  
 TODO
 
+# Other changes
+
+We mistakenly referred to PubPeer in our first version, when we
+actually meant Publons (edit O1).
+
+SJE is now an affiliate of BioRxiv (edit O2).
