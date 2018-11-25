@@ -181,7 +181,7 @@ amongst those that are pledging to provide greater transparency from
 reviewers to 'claim' metadata records on their profile for peer
 reviewing and editorial work they have done.  *Publishing reviewer
 reports, whether signed or not, should increase transparency in the
-reviewing process.* \points{R1.5c}.
+reviewing process.* \points{R1.5c}
 
 **Post publication peer review**.  A journal may immediately publish a
 paper upon submission; reviews are then sought for the preprint and
@@ -264,7 +264,7 @@ help create a more ethical research environment.
 
 SJE, RM, LG and AMC are members of the Bullied into Bad Science
 campaign.  SJE is on the editorial board of *Scientific Data* and an
-affiliate of *BioRxiv* \points{O2}.
+affiliate of *BioRxiv*. \points{O2}
 
 # Acknowledgements
 
