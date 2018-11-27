@@ -156,7 +156,7 @@ controversial findings [@Aizawa2016-lu].
 researchers which can help in linking scholarly outputs to an
 individual *and thus automatically curate a list of works, not just
 papers, in one place.  Such indentifiers should also reduce mistaken
-identity.* \points{R1.5a}.  Many journals now require that
+identity.* \points{R1.5a}  Many journals now require that
 at least one author verifies their identity as author using ORCiD
 [@web:orcidletter].  
 
@@ -167,13 +167,13 @@ rather than metrics.  Most UK funders have signed, although only a few
 universities have currently signed. See also the Leiden Manifesto for Research
 Metrics (<http://www.leidenmanifesto.org/>).  *We expect most UK
 universities to now sign DORA, or equivalent, due to the Wellcome
-Trust's revised policy (November 2018) requiring institutions to
+Trust's new policy (starting 2020) requiring institutions to
 sign.  Assuming institutions take this seriously, evaluating papers by
 their content rather than where they are published should reduce the
 pressure to publish in top-tier journals.*  \points{R1.5b}
 
-**Published peer review reports**.  Many journals now already or have
-pledged to provide greater transparency about the quality of peer
+**Published peer review reports**.  Many journals now already, or have
+pledged to, provide greater transparency about the quality of peer
 review they provide by publishing reviewer reports alongside published
 articles. Notably two large open access publishers PLOS and MDPI are
 amongst those that are pledging to provide greater transparency from
@@ -200,7 +200,7 @@ this leads to many wasted hours [@Budd2017-gd].  Gradually life
 science journals are now dropping these formatting requirements for
 initial submissions, instead allowing "format free" submissions
 [@Khan2018-zm], *and hence saving researchers from tedious
-reformatting tasks* \points{R1.5e}.
+reformatting tasks*. \points{R1.5e}
 
 ## Funder mandates and compliance
 
