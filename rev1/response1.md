@@ -98,7 +98,8 @@ studies.
  
 > p3, last line of 'Funder mandates...'. The authors cite 'green and diamond OA'. Don't they mean 'green and gold OA'? In any event, it would be helpful here to provide an explanatory sentence about these different forms of OA. 
  
-TODO
+Please see edit R2.1 where we have expanded on the alternative green
+and diamond models.  (We did mean diamond, as alternative to gold.)
 
 # Other changes
 
