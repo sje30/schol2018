@@ -106,4 +106,5 @@ and diamond models.  (We did mean diamond, as alternative to gold.)
 We mistakenly referred to PubPeer in our first version, when we
 actually meant Publons (edit O1).
 
-SJE is now an affiliate of BioRxiv (edit O2).
+SJE is now an affiliate of BioRxiv and LG is an ASAPbio ambassador
+(edit O2).
