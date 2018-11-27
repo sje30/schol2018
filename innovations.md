@@ -264,7 +264,7 @@ help create a more ethical research environment.
 
 SJE, RM, LG and AMC are members of the Bullied into Bad Science
 campaign.  SJE is on the editorial board of *Scientific Data* and an
-affiliate of *BioRxiv*. \points{O2}
+affiliate of *BioRxiv*. LG is an ASAPbio ambassador.\points{O2}
 
 # Acknowledgements
 
