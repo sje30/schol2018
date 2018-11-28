@@ -230,16 +230,16 @@ authors may need protection from them.
 
 However, the OA publishing world is due to change dramatically in 2020
 with the recent announcement of "plan S" [@Schiltz2018-jn], a European
-initiative to enforce OA, cap APCs and prohibit publishing in hybrid
-journals.  Whilst we support the notions underlying plan S, its
-success will depend on further implementation details \points{R2.1}
-*that are currently under discussion.  To date, gold OA, where authors
-typically pay often quite large APCs, is seen as the predominant way
-of meeting funders' OA mandates.  However green OA (publishing your
-author-accepted manuscript on a suitable server) is a viable
-alternative to making work freely available.  Finally, a relatively
-new model of diamond OA, where there are no fees either to read or
-publish papers, is being explored.  This approach has been
+initiative to enforce OA, cap APCs and *not financially support*
+\points{O.3} hybrid journals.  Whilst we support the notions
+underlying plan S, its success will depend on further implementation
+details \points{R2.1} *that are currently under discussion.  To date,
+gold OA, where authors typically pay often quite large APCs, is seen
+as the predominant way of meeting funders' OA mandates.  However green
+OA (publishing your author-accepted manuscript on a suitable server)
+is a viable alternative to making work freely available.  Finally, a
+relatively new model of diamond OA, where there are no fees either to
+read or publish papers, is being explored.  This approach has been
 successfully used in mathematics, where costs are kept low by hosting
 the published papers on ArXiv.  With the rise of preprint servers in
 the life sciences, we look forward to the emergence of similar

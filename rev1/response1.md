@@ -108,3 +108,7 @@ actually meant Publons (edit O1).
 
 SJE is now an affiliate of BioRxiv and LG is an ASAPbio ambassador
 (edit O2).
+
+Now that further guidance on plan S has been released, we have refined
+the text to note that hybrid journals are not going to financially
+supported (edit O3).
