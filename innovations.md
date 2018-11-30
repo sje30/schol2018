@@ -1,7 +1,5 @@
 # Recent developments in scholarly publishing to improve research practices in the life sciences
 
-\points{R1b}
-
 Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
 Ross Mounce [(orcid)](https://orcid.org/0000-0002-3520-2046),
 Laurent Gatto [(orcid)](https://orcid.org/0000-0002-1520-2268),
@@ -27,8 +25,8 @@ criteria, especially for instance on publishing statistically
 significant, positive results, creates biases across published
 studies. However, there are several reasons for optimism that the
 nature of scientific publishing will improve. Here we outline some
-recent developments \points{R1a}*that we believe will improve
-the working environment and career prospects for life scientists*.
+recent developments that we believe will improve the working
+environment and career prospects for life scientists.
 
 
 
@@ -81,12 +79,12 @@ believe there is a "reproducibility crisis" in science: i.e. many key
 findings in publications are either not independently verified, or
 fail verification when it is attempted [@Baker2016-wr].  The
 traditional publishing system must take some responsibility for these
-low levels of reproducibility, \points{R1.2}*as authors feel under
+low levels of reproducibility, as authors feel under
 intense pressure to publish to avoid being scooped (see below).
 Further, space limitations imposed by print journals inhibit adequate
 method descriptions, with key details relegated to supplementary
 information which is rarely scrutinised to the same degree as the main
-paper.*  However, here we list four encouraging developments that should
+paper.  However, here we list four encouraging developments that should
 promote reproducibility.
 
 **Preregistration papers** typically describe the introduction and
@@ -95,13 +93,13 @@ is actually performed [@Nosek2018-my].  This allows reviewers to
 improve the study design and commits researchers to hypotheses that
 they wish to study along with their statistical analysis.  Once the
 pre-registration study is approved, it is then published.  After the
-research is completed, another paper \points{R1.3a}*can be submitted to the same
-journal* which describes the results of the study using the
+research is completed, another paper can be submitted to the same
+journal which describes the results of the study using the
 pre-registered methods.  (Additional findings can be reported, but are
-clearly marked as such.)  \points{R1.3b}*Reviewer and editorial
+clearly marked as such.)  Reviewer and editorial
 decisions on whether to accept the second paper is made on the
 technical correctness of the paper rather than the importance or
-novelty of the results.* Preregistration is most prevalent today in
+novelty of the results.  Preregistration is most prevalent today in
 psychology; The Center for Open Science Preregistration Challenge
 <https://cos.io/prereg/> is helping to popularise this notion more
 broadly.  Initial analysis of results from preregistered papers
@@ -118,9 +116,9 @@ time and effort (for both researchers and journals) to ensure data is
 appropriately shared, these low-uptake rates are perhaps expected.  To
 reward authors for this work, "data papers" (a paper that simply
 describes the data) are becoming more prominent, e.g. in journals like
-*Scientific Data* and *Gigascience*.  *Journals are also providing
+*Scientific Data* and *Gigascience*.  Journals are also providing
 guidelines for authors to follow which should improve reproducibility
-and transparency [@Nosek2015-og].* \points{R1.6}
+and transparency [@Nosek2015-og].
 
 **Reproducible manuscripts** are documents that contain the main text
 as well as the code to generate tables, figures and results
@@ -131,9 +129,9 @@ have released reproducible versions of their work in parallel to the
 journal articles [@Gatto2014-wc; @Breckels2018-ys].  Recently, some
 journals have moved closer to publishing reproducible manuscripts, by
 working towards a reproducible document stack [@web:elifestack] or
-supporting reproducible figures [@web:biochannel].  *Further, some
+supporting reproducible figures [@web:biochannel].  Further, some
 journals are experimenting with re-running of code "in the cloud"
-using services such as Cloud Ocean [@web:codeocean].* \points{R1.4}
+using services such as Cloud Ocean [@web:codeocean].
 
 **Replicability studies** Given the (often intense) competition to be
 first to publish in some areas of biology, being "scooped" on
@@ -154,9 +152,9 @@ controversial findings [@Aizawa2016-lu].
 
 **ORCiD** provides a persistent, unique digital identifier for
 researchers which can help in linking scholarly outputs to an
-individual *and thus automatically curate a list of works, not just
+individual and thus automatically curate a list of works, not just
 papers, in one place.  Such indentifiers should also reduce mistaken
-identity.* \points{R1.5a}  Many journals now require that
+identity.  Many journals now require that
 at least one author verifies their identity as author using ORCiD
 [@web:orcidletter].  
 
@@ -165,23 +163,23 @@ at least one author verifies their identity as author using ORCiD
 institutions to commit to evaluating research based on its content
 rather than metrics.  Most UK funders have signed, although only a few
 universities have currently signed. See also the Leiden Manifesto for Research
-Metrics (<http://www.leidenmanifesto.org/>).  *We expect most UK
+Metrics (<http://www.leidenmanifesto.org/>).  We expect most UK
 universities to now sign DORA, or equivalent, due to the Wellcome
 Trust's new policy (starting 2020) requiring institutions to
 sign.  Assuming institutions take this seriously, evaluating papers by
 their content rather than where they are published should reduce the
-pressure to publish in top-tier journals.*  \points{R1.5b}
+pressure to publish in top-tier journals.
 
 **Published peer review reports**.  Many journals now already, or have
 pledged to, provide greater transparency about the quality of peer
 review they provide by publishing reviewer reports alongside published
 articles. Notably two large open access publishers PLOS and MDPI are
 amongst those that are pledging to provide greater transparency from
-2019 [@asap_letter].  *Publons* \points{O1} (<https://publons.com/>) allows
+2019 [@asap_letter].  Publons (<https://publons.com/>) allows
 reviewers to 'claim' metadata records on their profile for peer
-reviewing and editorial work they have done.  *Publishing reviewer
+reviewing and editorial work they have done.  Publishing reviewer
 reports, whether signed or not, should increase transparency in the
-reviewing process.* \points{R1.5c}
+reviewing process.
 
 **Post publication peer review**.  A journal may immediately publish a
 paper upon submission; reviews are then sought for the preprint and
@@ -189,9 +187,9 @@ made public.  If sufficient reviewers support publication, the
 article is formally accepted and e.g. listed on Pubmed.  Leading examples of
 this approach are F1000 Research, who provide the infrastructure for
 several institution- and funder-specific journals, such as *Wellcome
-Open Research* and *Gates Open Research*.  \points{R1.5d}*This
+Open Research* and *Gates Open Research*.  This
 approach to publishing complements preprinting by ensuring the paper
-is publicly available whilst undergoing peer review.*
+is publicly available whilst undergoing peer review.
 
 **Format free submissions**.  Journals have traditionally imposed
 strict formatting requirements for manuscripts.  As editors at
@@ -199,8 +197,8 @@ top-tier journals 'desk reject' most submissions before peer review,
 this leads to many wasted hours [@Budd2017-gd].  Gradually life
 science journals are now dropping these formatting requirements for
 initial submissions, instead allowing "format free" submissions
-[@Khan2018-zm], *and hence saving researchers from tedious
-reformatting tasks*. \points{R1.5e}
+[@Khan2018-zm], and hence saving researchers from tedious
+reformatting tasks.
 
 ## Funder mandates and compliance
 
@@ -230,20 +228,20 @@ authors may need protection from them.
 
 However, the OA publishing world is due to change dramatically in 2020
 with the recent announcement of "plan S" [@Schiltz2018-jn], a European
-initiative to enforce OA, cap APCs and *not financially support*
-\points{O.3} hybrid journals.  Whilst we support the notions
-underlying plan S, its success will depend on further implementation
-details \points{R2.1} *that are currently under discussion.  To date,
-gold OA, where authors typically pay often quite large APCs, is seen
-as the predominant way of meeting funders' OA mandates.  However green
-OA (publishing your author-accepted manuscript on a suitable server)
-is a viable alternative to making work freely available.  Finally, a
-relatively new model of diamond OA, where there are no fees either to
-read or publish papers, is being explored.  This approach has been
+initiative to enforce OA, cap APCs and not financially support hybrid
+journals.  Whilst we support the notions underlying plan S, its
+success will depend on further implementation details that are
+currently under discussion.  To date, gold OA, where authors typically
+pay often quite large APCs, is seen as the predominant way of meeting
+funders' OA mandates.  However green OA (publishing your
+author-accepted manuscript on a suitable server) is a viable
+alternative to making work freely available.  Finally, a relatively
+new model of diamond OA, where there are no fees either to read or
+publish papers, is being explored.  This approach has been
 successfully used in mathematics, where costs are kept low by hosting
 the published papers on ArXiv.  With the rise of preprint servers in
 the life sciences, we look forward to the emergence of similar
-low-cost overlay journals in the life sciences.*
+low-cost overlay journals in the life sciences.
 
 
 
@@ -264,7 +262,7 @@ help create a more ethical research environment.
 
 SJE, RM, LG and AMC are members of the Bullied into Bad Science
 campaign.  SJE is on the editorial board of *Scientific Data* and an
-affiliate of *BioRxiv*. LG is an ASAPbio ambassador.\points{O2}
+affiliate of *BioRxiv*. LG is an ASAPbio ambassador.
 
 # Acknowledgements
 
