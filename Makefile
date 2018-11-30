@@ -1,5 +1,5 @@
 innovations.pdf: innovations.tex
-	latexmk innovations
+	latexmk -pdf innovations
 
 innovations.tex: innovations.md schol.bib pandoc-header.tex 
 	pandoc --filter pandoc-citeproc innovations.md --csl=cell-numeric.csl --include-in-header=pandoc-header.tex -V colorlinks --bibliography schol.bib -o innovations.tex
