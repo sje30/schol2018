@@ -1,3 +1,5 @@
+\vspace*{-2cm}\centerline{Accepted manuscript}
+
 # Recent developments in scholarly publishing to improve research practices in the life sciences
 
 Stephen J Eglen [(orcid)](https://orcid.org/0000-0001-8607-8025),
