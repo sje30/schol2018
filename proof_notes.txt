@@ -1,0 +1,58 @@
+Response to proof questions.
+
+Q1: ok
+
+Q2: Gatto's affiliation should read "UCLouvain, Brussels, Belgium",
+i.e. no space after UC.
+
+Q3: abstract
+
+
+We outline recent developments in scholarly publishing that we think
+will improve the working environment and career prospects for life
+scientists.  Most prominently, we discuss two key developments. (1)
+Life scientists are now embracing a preprint culture leading to rapid
+dissemination of research findings.  (2) We outline steps to overcome
+the reproducibility crisis.  We also briefly describe other innovations in
+scholarly publishing, along with changes to open access mandates from
+funding agencies.
+
+Q4: okay.  For consistency, you might wish to italicise ASAPbio.
+
+Q5: ref 7 --
+
+The doi refers to this page:
+
+https://www.nature.com/articles/d41586-018-07118-1
+
+Aside from noting it appeared on 24 October 2018 , there are no
+volume/page numbers.
+
+
+Q6: ref 12, 22 --
+
+Ref 12: page number is 2926.
+
+Breckels LM, Mulvey CM, Lilley KS and Gatto L. A Bioconductor workflow
+for processing and analysing spatial proteomics data F1000Research
+2018, 5:2926
+
+(https://doi.org/10.12688/f1000research.10411.2)
+
+ref 22: listed on journal web page as "EMBO reports (2018) 19, e45731"
+
+
+
+Changes requested to manuscript
+
+line 31: no period after "1991"
+
+line 59: remove both commas ", under intense pressure,"
+
+line 163: delete "the" before "financial support".
+
+
+References
+
+It looks odd that DOIs are coloured blue, yet the other URLs in
+references are not highlighted in blue.  Is this deliberate?
